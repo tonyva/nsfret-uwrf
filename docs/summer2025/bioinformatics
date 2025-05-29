@@ -1,0 +1,20 @@
+Bioinformatics project for the 2025 Summer RET
+
+First things first, it is essential that we familiarize ourselves with the tools needed to perform bioinformatics analysis. Our main programming language will be Python 
+
+While there is a lot we can do with a system running the Windows operating system, when doing research, it is best to use a system running the Linux operating system.
+
+Therefore, we will take a look at using Linux and the Python programming language. A good way to do this would be to use a Virtual Machine running the Linux operating system. 
+The reason for this is that we will use open source bioinformatics tools and Linux is probably the best platform for installing and using bioinformatics tools.
+
+If you have a laptop or a desktop computer running Linux (natively on the host computer), you are all set! 
+Otherwise, if you have a Windows 11 system, there are a couple of options:
+1. Use the Windows Sybsten for Linux feature of Windows. We can think of this as a small Linux machine inside your Windows machine. 
+   Not everything works in WSL and so another option is to use the next option
+2. Install virtualization software like VirtualBox. This is a free product from Oracle 
+
+If you have a laptop or desktop computer running Apple's macOS, you could just use the native macOS environment but 
+you may still want to install virtualization software like VirtualBox (free from Oracle).
+
+
+
