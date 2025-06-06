@@ -1,0 +1,12 @@
+#!/usr/bin/python -W all
+#
+# Python program showing how to use translation tables
+
+str1 = "Call me Ishmael."
+tableinput = 'ae'
+tableoutput = 'ea'
+
+from string import maketrans
+table = maketrans( tableinput, tableoutput )
+str2 = str1.translate( table )
+print "Started with: ", str1, " translated to: ", str2
