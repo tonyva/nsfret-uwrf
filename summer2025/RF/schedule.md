@@ -10,12 +10,12 @@ Jodie Bray - may not be able to attend
 Tony Varghese
 
  1. Monday June 9: 
-     9 am: Introductions, Educator needs survey. Recording [is here](https://uwrf-my.sharepoint.com/:v:/g/personal/anthony_varghese_uwrf_edu/EcyoHYcNLM9OpgsmB_fmub8BBfGXJlGpWNg7sxpq2kUOBQ?e=qfJpj1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-    10 am: Research - first look at paper and glossaary [Recording](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EcwehTVMjW1EvwrZYCxL1osB8RyHVp9_-g3zkxlnCTOWSw?e=JRYI93)
+     9 am: Introductions, Educator needs survey. Recording 1 [is here](https://uwrf-my.sharepoint.com/:v:/g/personal/anthony_varghese_uwrf_edu/EcyoHYcNLM9OpgsmB_fmub8BBfGXJlGpWNg7sxpq2kUOBQ?e=qfJpj1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+    10 am: Research - first look at paper and glossaary [Recording 2](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EcwehTVMjW1EvwrZYCxL1osB8RyHVp9_-g3zkxlnCTOWSw?e=JRYI93)
     11 am: Research Background - biology
     12 pm: Lunch
-     1 pm: Research tools: VMs, Linux, replit [Recording](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EbVQmIT4dXBCvLID8eLJ_D0BdDL222I-cREkS8mM9v6h_w?e=ijZFge)
-     2 pm: Python I [Recording] (https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EZdynYYhxYVKoG9uS6E6otsBmp6tyJW9fQ45hpJjLb0aZA?e=i1ERed)
+     1 pm: Research tools: VMs, Linux, replit [Recording 3](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EbVQmIT4dXBCvLID8eLJ_D0BdDL222I-cREkS8mM9v6h_w?e=ijZFge)
+     2 pm: Python I [Recording 4](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EZdynYYhxYVKoG9uS6E6otsBmp6tyJW9fQ45hpJjLb0aZA?e=i1ERed)
      3 pm: Research - another look at the paper
 
  2. Tuesday June 10:
