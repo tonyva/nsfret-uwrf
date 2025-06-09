@@ -24,8 +24,8 @@ Tony Varghese
     11 am: Research tools: bash shell, git, GitHub, Jupyter
     12 pm: Lunch - Tony has a meeting
      1 pm: Tony has a meeting
-     2 pm: Python II
-     3 pm: Research - paper
+     2 pm: Tony has a meeting
+     3 pm: Python II; Research - paper
 
  3. Wednesday June 11:
      9 am: Research - paper
