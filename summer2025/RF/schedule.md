@@ -10,7 +10,7 @@ Jodie Bray - may not be able to attend
 Tony Varghese
 
  1. Monday June 9: 
-     9 am: Introductions, Educator needs survey
+     9 am: Introductions, Educator needs survey. Recording [is here](https://uwrf-my.sharepoint.com/:v:/g/personal/anthony_varghese_uwrf_edu/EcyoHYcNLM9OpgsmB_fmub8BBfGXJlGpWNg7sxpq2kUOBQ?e=qfJpj1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
     10 am: Research - first look at paper and glossaary
     11 am: Research Background - biology
     12 pm: Lunch
