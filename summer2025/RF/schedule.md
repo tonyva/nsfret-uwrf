@@ -22,9 +22,9 @@ Tony Varghese
      9 am: Research - paper
     10 am: Research background
     11 am: Research tools: bash shell, git, GitHub, Jupyter
-    12 pm: Lunch
-     1 pm: Python II
-     2 pm: Python III
+    12 pm: Lunch - Tony has a meeting
+     1 pm: Tony has a meeting
+     2 pm: Python II
      3 pm: Research - paper
 
  3. Wednesday June 11:
@@ -32,8 +32,8 @@ Tony Varghese
     10 am: Research background
     11 am: Research background
     12 pm: Lunch
-     1 pm: Python IV
-     2 pm: Python V
+     1 pm: Python III
+     2 pm: Python IV
      3 pm: Research - paper
 
 
@@ -46,32 +46,32 @@ Tony Varghese: busy with UWRF duties in the morning
 
  1. Monday June 16: 
     12 pm: Lunch
-     1 pm: Python VI
-     2 pm: Python VII
+     1 pm: Python V
+     2 pm: Python VI
      3 pm: Research - paper
 
  2. Tuesday June 17:
     12 pm: Lunch
      1 pm: Research background
-     2 pm: Python VIII
+     2 pm: Python VII
      3 pm: Research - paper
 
  3. Wednesday June 18:
     12 pm: Lunch
      1 pm: Research background
-     2 pm: Python IX
+     2 pm: Python VIII
      3 pm: Research - paper
 
  4. Thursday June 19: 
     12 pm: Lunch
      1 pm: Research background
-     2 pm: Python X
+     2 pm: Python IX
      3 pm: Research - paper
 
  5. Friday June 20:
     12 pm: Lunch
      1 pm: Research background
-     2 pm: Python XI
+     2 pm: Python X
      3 pm: Research - paper
 
 ## Week 3: Monday June 23 thru Friday June 27
