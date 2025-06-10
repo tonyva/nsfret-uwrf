@@ -19,12 +19,12 @@ Tony Varghese
      3 pm: Research - another look at the paper
 
  2. Tuesday June 10:\
-     9 am: Research - paper\
+     9 am: Research - paper.\ [Morning session recording](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EQ4sP2oSeO1Fojjt-V3Jg4cB0UUBFNq0nzRd3Q2qzFI3Hg?e=UDryac&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)\
     10 am: Research background\
     11 am: Research background\
     12 pm: Lunch - Tony has a meeting\
      1 pm: Tony has a meeting\
-     2 pm: Research tools: bash shell, git, GitHub, Jupyter\
+     2 pm: Research tools: bash shell, git, GitHub, Jupyter\ [Afternoon session recording](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/Ed3UT_YdC01HtvWfWpS_WvoBpqWs-Kl52svYvC0J4LQYGA?e=uIqW9E&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
      3 pm: Python II; Research - paper
 
  3. Wednesday June 11:\
