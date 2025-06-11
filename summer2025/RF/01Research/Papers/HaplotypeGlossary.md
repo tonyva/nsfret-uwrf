@@ -107,4 +107,26 @@ Note of the number of "reads" i.e. "short" sequences
 
 
 
-22. 
+22. Allele dosage
+23. Assele ratio
+24. Chromosom attribution
+25. Clonal propagation
+26. Disease resistance gene
+27. Ethylene biosynthesis
+28. Fixation index
+29. Flow cytometry
+30. Flower meristem
+31. Genome Assembly
+32. Genome introgression
+33. Genome variation map
+34. Genome composition
+35. Rosa accessions
+36. Illumina short-read
+37. Linkage disequilibrium
+38. Phylogenetic tree, analysis
+39. Population genomic analysis
+40. Pore-C sequencing
+41. Principal Component Analysis
+42. Single Nucleotide Polymorphism (SNP)
+43. SNP genotyping
+44. Variant frequency
