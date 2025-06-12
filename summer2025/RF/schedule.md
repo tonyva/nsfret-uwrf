@@ -49,7 +49,8 @@ Tony Varghese: busy with UWRF duties in the morning
 
 
  1. Monday June 16:\
-    Morning: please discuss any problems you may have run into or questions about material from the previous week.\ 
+    Morning: please discuss any problems you may have run into or questions about material from the previous week.
+     
     12 pm: Lunch\
      1 pm: Python V\
      2 pm: Python VI\
