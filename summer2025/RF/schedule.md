@@ -84,20 +84,20 @@ Tony Varghese: busy with UWRF duties in the morning
 
 Steve Song: would like to attend CodeSavvy\
 Jodie Bray: available in afternoons, busy in mornings\
-Tony Varghese: busy with UWRF duties on Thursday
+Tony Varghese: busy with UWRF duties on Thursday; Monday: I will reach campus at around 10 am
 
 
  1. Monday June 23:\ 
-     9 am: Tony will reach campus at around 10 am\
-    10 am: Jodie - busy\
+     9 am: \
+    10 am: \
     11 am: \
     12 pm: Lunch\
-     1 pm:\
+     1 pm: \
      2 pm: \
      3 pm: 
 
  2. Tuesday June 24:\
-     9 am: Jodie - busy\
+     9 am: \
     10 am: \
     11 am: \
     12 pm: Lunch\
@@ -110,16 +110,16 @@ Tony Varghese: busy with UWRF duties on Thursday
     10 am: \
     11 am: \
     12 pm: Lunch\
-     1 pm:\
-     2 pm: \
-     3 pm: 
+     1 pm: HPC training in Eau Claire\
+     2 pm: HPC training in Eau Claire\
+     3 pm: HPC training in Eau Claire
 
  4. Thursday June 26: Visit Eau Claire - HPC\
      9 am: Tony in Eau Claire today\
     10 am: \
     11 am: Tony has a meeting in Eau Claire\
     12 pm: \
-     1 pm: Jodie is available - meet in Eau Claire?\
+     1 pm: \
      2 pm: \
      3 pm: 
 
