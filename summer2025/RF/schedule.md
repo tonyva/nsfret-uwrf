@@ -56,7 +56,7 @@ Tony Varghese: busy with UWRF duties in the morning
      2 pm: Python VI\
      3 pm: Research - paper \ [Afternoon session recording] (https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EfP50wRQPFVCjvVLFfJXNS4BBQUlZ2qg5ONVEhkozMnTDA?e=7WTEeX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
- 3. Tuesday June 17:\
+ 3. Tuesday June 17: [Afternoon session recording[(https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EXDtLRnmbYFJpST_-HuqRPQBMT96MC7jAZhPv95d2DNlBw?e=YY14it&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)\
     12 pm: Lunch\
      1 pm: Research background\
      2 pm: Python VII\
