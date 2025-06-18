@@ -18,7 +18,7 @@ What other "homologous" sequences exist in the database? Can we say whether this
 
 
 2. blastp - usually used to search in a database of protein sequences for a protein query sequence - that we may know a lot about or one that we do not know much about.
-   Use this protein sequence as the query:
+   Use this protein sequence as the query:\
 \>WP_003971485\
 MPPMLSGLLARLVKLLLGRHGSALHWRAAGAATVLLVIVLLAGSYLAVLAERGAPGAQLITYPRALWWSV
 ETATTVGYGDLYPVTLWGRLVAVVVMVAGITSFGLVTAALATWFVGREQERRGHFVRHSEKAAEEAYTRT
@@ -28,7 +28,7 @@ Based on the BLASTP results, what can we say about what parts of the query amino
 
 
 3. blastx - to search in a protein sequence database with a nucleotide query sequence
-   Use this nucleotide sequence - assume that it was recently sequenced and that we do not know much about it:
+   Use this nucleotide sequence - assume that it was recently sequenced and that we do not know much about it:\
 \>NM_001251647\
 TACATTATGTATGCATTTGGCGTAAGTATATGAGAGAGTGAGTACTACTACTGCGAAGCAAAACCAGAGA
 GACATGAGAAGCTGTGTGTGTTACACGCTTTTATTGTTTGTTTTCTTCATATGGCTACACGTGGCAACGT
@@ -53,7 +53,7 @@ Does it contain a coding region? Does it code for a complete gene? Or does it ju
 
 4. tblastn - to search in a nucleotide sequence database with a protein query sequence
 
-Use this protein sequence to find out about whether it might be possible to trace the organism it came from
+Use this protein sequence to find out about whether it might be possible to trace the organism it came from:\
 \>CAE7832393\
 MQLFQQLGEALERLSSGHCAWNDLTKAELRNLAEFNEEPKSAIEGLEGLALEYTWQELHQATDGFSTARQ
 LGSGASGTVYHATLCEGTEAAVKVLDAPLRGGFEDEVRLLSRCRHPNVVMLLGFAEESLCSVFRHRRCAL
@@ -69,7 +69,7 @@ Based on the tblastn results, what can we say about the organism that it might h
 
 5. tblastx - to search in a nucleotide database (each nucleotide sequence is converted to 6 possible protein sequences corresponding to the various reading frames) using a query nucleotide sequence which is also converted to its six possible protein sequences.
 
-Use this nucleotide sequence to search for all known organisms that may have similar genes or parts of proteins:
+Use this nucleotide sequence to search for all known organisms that may have similar genes or parts of proteins:\
 \>NM_001344809\
 CATTCTCTTCTCTCTCTTTATCTGACTCTCTCTTATCTCCACTGTTCCCAAGCCCATACGGGCAAAAGAA
 CCTGCTCCCAAAGTTGGCTCTGCAACAGAACAGAACTCTTAATTGTAGTAACACTAATGTATCCACTCAC
