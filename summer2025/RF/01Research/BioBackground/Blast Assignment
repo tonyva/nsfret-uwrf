@@ -1,0 +1,22 @@
+The following questions will help you understand why reserchers use the Basic Local Alignment Search Tool[BLAST](https://en.wikipedia.org/wiki/BLAST_(biotechnology))
+
+There are a number of databases we can search and a number of BLAST program variants we can use. Let's take a look at the main ones:
+
+1. blastn - this is usually used to search in a database of neucleotide sequences for a (query) sequence that we may know a lot about or a sequence we do not know much about apart from the sequence itself.
+   Use this input sequence which is actually one that we know much about but for this exercise, we are curious to know what other homologous sequences may exist in the database:
+   >NC_003888.3:8487119-8487601 Streptomyces coelicolor A3(2), complete sequence
+ATGCCACCCATGCTGTCCGGTCTTCTGGCCAGATTGGTCAAACTGCTGCTCGGGCGCCACGGCAGTGCGC
+TGCACTGGAGGGCCGCGGGTGCCGCGACGGTCCTCCTGGTGATCGTCCTCCTCGCGGGCTCGTACTTGGC
+CGTCCTGGCTGAGCGCGGCGCACCGGGCGCGCAGCTGATCACGTATCCGCGGGCGCTGTGGTGGTCCGTG
+GAGACCGCGACGACCGTCGGCTACGGCGACCTGTACCCCGTGACTCTGTGGGGCCGGCTCGTGGCCGTGG
+TGGTGATGGTCGCCGGGATCACCTCCTTCGGTCTGGTGACCGCCGCGCTGGCCACCTGGTTCGTCGGCCG
+GGAACAAGAGCGCCGGGGCCACTTCGTGCGCCACTCCGAGAAGGCCGCCGAGGAGGCGTACACGCGGACG
+ACCCGGGCGCTGCACGAGCGTTTCGACCGTTTGGAGCGAATGCTCGACGACAACCGCCGGTGA
+
+2. blastp - usually used to search in a database of protein sequences for a protein query sequence - that we may know a lot about or one that we do not know much about.
+
+3. blastx - to search in a protein sequence database with a nucleotide query sequence
+
+4. tblastn - to search in a nucleotide sequence database with a protein query sequence
+
+5. tblastx - to search in a nucleotide database (each nucleotide sequence is converted to 6 possible protein sequences corresponding to the various reading frames) using a query nucleotide sequence which is also converted to its six possible protein sequences.
