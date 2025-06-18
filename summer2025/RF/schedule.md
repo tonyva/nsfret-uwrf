@@ -6,10 +6,10 @@ June 9 to July 3
 
 Steve Song\
 Jacob Hendricks\
-Jodie Bray - may not be able to attend\
+Jodie Bray - unable to attend\
 Tony Varghese
 
- 1. Monday June 9:\ 
+ 1. Monday June 9:\
      9 am: Introductions, Educator needs survey. Recording 1 [is here](https://uwrf-my.sharepoint.com/:v:/g/personal/anthony_varghese_uwrf_edu/EcyoHYcNLM9OpgsmB_fmub8BBfGXJlGpWNg7sxpq2kUOBQ?e=qfJpj1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)\
     10 am: Research - first look at paper and glossaary [Recording 2](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EcwehTVMjW1EvwrZYCxL1osB8RyHVp9_-g3zkxlnCTOWSw?e=JRYI93)\
     11 am: Research Background - biology\
@@ -36,7 +36,7 @@ Tony Varghese
     11 am: Research background\
     12 pm: Lunch\
      1 pm: Python III\
-    [Afternoon meeting](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EfP50wRQPFVCjvVLFfJXNS4BBQUlZ2qg5ONVEhkozMnTDA?e=VTduRB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+    [Afternoon meeting](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EfP50wRQPFVCjvVLFfJXNS4BBQUlZ2qg5ONVEhkozMnTDA?e=VTduRB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)\
      2 pm: Python IV\
      3 pm: Research - paper
 
@@ -56,43 +56,43 @@ Tony Varghese: busy with UWRF duties in the morning
      2 pm: Python VI\
      3 pm: Research - paper \ [Afternoon session recording] (https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EfP50wRQPFVCjvVLFfJXNS4BBQUlZ2qg5ONVEhkozMnTDA?e=7WTEeX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
- 3. Tuesday June 17: [Afternoon session recording[(https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EXDtLRnmbYFJpST_-HuqRPQBMT96MC7jAZhPv95d2DNlBw?e=YY14it&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)\
+ 3. Tuesday June 17: [Afternoon session recording](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EXDtLRnmbYFJpST_-HuqRPQBMT96MC7jAZhPv95d2DNlBw?e=YY14it&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)\
     12 pm: Lunch\
      1 pm: Research background\
-     2 pm: Python VII\
+     2 pm: Background\
      3 pm: Research - paper
 
- 4. Wednesday June 18:
+ 4. Wednesday June 18: [Afternoon session](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EVIl8m_Di35Bl8M-FxYYk5QB_Vktkmni2gpE5rjfp6CysQ?e=fBT020&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)\
     12 pm: Lunch\
      1 pm: Research background\
-     2 pm: Python VIII\
+     2 pm: Background\
      3 pm: Research - paper
 
  5. Thursday June 19: \
-    12 pm: Lunch\
-     1 pm: Research background\
-     2 pm: Python IX\
+    12 pm: Python VII\
+     1 pm: Tony has a meeting\
+     2 pm: Python VIII\
      3 pm: Research - paper
 
  6. Friday June 20:\
     12 pm: Lunch\
      1 pm: Research background\
-     2 pm: Python X\
+     2 pm: Python IX\
      3 pm: Research - paper
 
 ## Week 3: Monday June 23 thru Friday June 27
 
 Steve Song: would like to attend CodeSavvy\
-Jodie Bray: available in afternoons, busy in mornings\
+Jodie Bray: available in afternoons, busy in mornings?\
 Tony Varghese: busy with UWRF duties on Thursday; Monday: I will reach campus at around 10 am
 
 
- 1. Monday June 23:\ 
-     9 am: \
+ 1. Monday June 23:\
+     9 am: Steve has Code Savvy this day\
     10 am: \
     11 am: \
     12 pm: Lunch\
-     1 pm: \
+     1 pm: Jodie is available - meet in UC 332 (Eau Galle Room)\
      2 pm: \
      3 pm: 
 
@@ -105,8 +105,8 @@ Tony Varghese: busy with UWRF duties on Thursday; Monday: I will reach campus at
      2 pm: \
      3 pm: 
 
- 3. Wednesday June 25:\
-     9 am: Jodie - busy\
+ 3. Wednesday June 25: No meetings in River Falls\
+     9 am: Jodie - busy?\
     10 am: \
     11 am: \
     12 pm: Lunch\
@@ -114,7 +114,7 @@ Tony Varghese: busy with UWRF duties on Thursday; Monday: I will reach campus at
      2 pm: HPC training in Eau Claire\
      3 pm: HPC training in Eau Claire
 
- 4. Thursday June 26: Visit Eau Claire - HPC\
+ 4. Thursday June 26: No meetings in River Falls\
      9 am: Tony in Eau Claire today\
     10 am: \
     11 am: Tony has a meeting in Eau Claire\
