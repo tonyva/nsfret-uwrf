@@ -3,7 +3,7 @@ The following questions will help you understand why reserchers use the Basic Lo
 There are a number of databases we can search and a number of BLAST program variants we can use. Let's take a look at the main ones:
 
 1. blastn - this is usually used to search in a database of neucleotide sequences for a (query) sequence that we may know a lot about or a sequence we do not know much about apart from the sequence itself.
-   Use this input sequence which is actually one that we know much about but for this exercise, we are curious to see what similar sequences we can find:
+   Use this input sequence which is actually one that we know much about but for this exercise, we are curious to see what similar sequences we can find:\
 >NC_003888 \
 ATGCCACCCATGCTGTCCGGTCTTCTGGCCAGATTGGTCAAACTGCTGCTCGGGCGCCACGGCAGTGCGC
 TGCACTGGAGGGCCGCGGGTGCCGCGACGGTCCTCCTGGTGATCGTCCTCCTCGCGGGCTCGTACTTGGC
