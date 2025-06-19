@@ -86,5 +86,11 @@ ATAGTGACAAGGGTAAAGATCAGTGTCTTGATCTCTCCCTACATTTGTGATTTTAGCATTATCATTTGTT\
 AGTTATGGTCTTGCCAAAATTGACTACAAACTGTTCCATCCGTATCCTGATTTTAATTGGTATTCCGAGA\
 AATAATGGACGATATATAGTGATTAAACTATTTGTAATTCTTT
 
-
 What can we say about the organisms that have this?
+
+As far as strategies for searching for information about nucleotide or protein sequences go:
+1. Nucleotide databases like the ones in GenBank are enormous and so blastn has to do a lot of work unless we focus on specific nucleotide databases. blastn itself is really fast because we only have (for the most part) 4 nucleotides! There are other "letters" to signify various combinations of the 4 nucleotides.
+2. Among the many parameters for blastn are ones that will make blastn search for highly similar sequences (megablast) or more dissimilar sequences (discontiguous megablast) or the "default" search which looks for "somewhat similar" sequences.
+3. tblastx, on the other hand, is a very expensive search strategy since we are looking at "every" nucleotide sequence converted to 6 protein sequences (the 6 reading frames!).
+4. However, sometimes, tblastx is the best option if we want to find sequences that have diverged because of evolution. Assuming that protein function is mostly preserved through evolution, we can say that amino acid (protein) sequences are more likely to be preserved than nucleotide sequences since there is redundancy in the information in codons (64 possible codons for 20 amino acids). This means that two species that have very different DNA (or RNA) sequences can end up giving us very similar protein sequences!
+5. Using tblastx for non-coding DNA really does not make much sense. It really is meant for protein coding genes.
