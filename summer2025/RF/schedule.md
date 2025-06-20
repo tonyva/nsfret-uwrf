@@ -44,7 +44,7 @@ Tony Varghese
 ## Week 2: Monday June 16 thru Wednesday June 20\
 
 Steve Song\
-Jodie Bray\
+Jodie Bray - unable to attend\
 Tony Varghese: busy with UWRF duties in the morning
 
 
@@ -81,53 +81,37 @@ Tony Varghese: busy with UWRF duties in the morning
 
 ## Week 3: Monday June 23 thru Friday June 27
 
-Steve Song: would like to attend CodeSavvy\
-Jodie Bray: available in afternoons, busy in mornings?\
-Tony Varghese: busy with UWRF duties on Thursday; Monday: I will reach campus at around 10 am
-
+Steve Song: would like to attend CodeSavvy - Weds: HPC in Eau Claire\
+Jodie Bray: available in afternoons - Weds: HPC in Eau Claire\
+Tony Varghese: in Eau Claire on Thursday
 
  1. Monday June 23:\
-     9 am: Steve has Code Savvy this day\
-    10 am: \
-    11 am: \
+     Steve has Code Savvy this day\
     12 pm: Lunch\
      1 pm: Jodie is available - meet in UC 332 (Eau Galle Room)\
      2 pm: \
      3 pm: 
 
  2. Tuesday June 24:\
-     9 am: \
-    10 am: \
-    11 am: \
     12 pm: Lunch\
      1 pm:\
      2 pm: \
      3 pm: 
 
  3. Wednesday June 25: No meetings in River Falls\
-     9 am: Jodie - busy?\
-    10 am: \
-    11 am: \
-    12 pm: Lunch\
      1 pm: HPC training in Eau Claire\
      2 pm: HPC training in Eau Claire\
      3 pm: HPC training in Eau Claire
 
  4. Thursday June 26: No meetings in River Falls\
-     9 am: Tony in Eau Claire today\
-    10 am: \
-    11 am: Tony has a meeting in Eau Claire\
-    12 pm: \
-     1 pm: \
-     2 pm: \
-     3 pm: 
+     Tony in Eau Claire for the day\
 
- 5. Friday June 27:\
+ 5. Friday June 27: To be determined\
      9 am: \
     10 am: \
     11 am: \
     12 pm: Lunch\
-     1 pm:\
+     1 pm: \
      2 pm: \
      3 pm: 
 
