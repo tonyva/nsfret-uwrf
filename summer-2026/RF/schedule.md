@@ -73,7 +73,7 @@ Meet at UW-River Falls with Tony Varghese
  3. Tuesday June 30: [Afternoon session recording]
      9 am: \
     10 am: \
-    11 am: \  
+    11 am: \
     12 pm: Lunch\
      1 pm: Research background\
      2 pm: Background\
@@ -82,7 +82,7 @@ Meet at UW-River Falls with Tony Varghese
  4. Wednesday July 1: [Afternoon session]
      9 am: \
     10 am: \
-    11 am:  \ 
+    11 am: \
     12 pm: Lunch\
      1 pm: Research background\
      2 pm: Background\
@@ -99,7 +99,7 @@ Meet at UW-River Falls with Tony Varghese
  6. Friday July 3 - Choose: holiday or workday? If you want to work, we can take either Monday the 6th or the 17th off!\
      9 am: \
     10 am: \
-    11 am:  \ 
+    11 am: \
     12 pm: Lunch \
      1 pm: \
      2 pm: \
@@ -113,7 +113,7 @@ Meet at UW-River Falls with Tony Varghese
  1. Monday July 6: \
      9 am: \
     10 am: \
-    11 am:  \ 
+    11 am: \
     12 pm: Lunch \
      1 pm: \
      2 pm: \
@@ -131,7 +131,7 @@ Meet at UW-River Falls with Tony Varghese
  3. Wednesday July 8:
      9 am: \
     10 am: \
-    11 am:  \ 
+    11 am: \
     12 pm: Lunch\
      1 pm: \
      2 pm: \
@@ -140,7 +140,7 @@ Meet at UW-River Falls with Tony Varghese
  4. Thursday July 9: 
      9 am: \
     10 am: \
-    11 am:  \ 
+    11 am: \
     12 pm: Lunch\
      1 pm: \
      2 pm: \
@@ -166,7 +166,7 @@ Meet at UW-River Falls with Tony Varghese
  1. Monday July 13: \
      9 am: \
     10 am: \
-    11 am: \  
+    11 am: \
     12 pm: Lunch\
      1 pm: \
      2 pm: \
@@ -175,7 +175,7 @@ Meet at UW-River Falls with Tony Varghese
  2. Tuesday July 14:\
      9 am: \
     10 am: \
-    11 am:  \ 
+    11 am: \
     12 pm: Lunch\
      1 pm:\
      2 pm: \
@@ -184,7 +184,7 @@ Meet at UW-River Falls with Tony Varghese
  3. Wednesday July 15:
      9 am: \
     10 am: \
-    11 am:  \ 
+    11 am: \
     12 pm: Lunch\
      1 pm: \
      2 pm: \
@@ -193,7 +193,7 @@ Meet at UW-River Falls with Tony Varghese
  4. Thursday July 16: 
      9 am: \
     10 am: \
-    11 am: \  
+    11 am: \
     12 pm: Lunch\
      1 pm: \
      2 pm: \
