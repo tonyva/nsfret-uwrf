@@ -13,7 +13,6 @@ Meet at UW-River Falls with Tony Varghese
 
 
  2. Tuesday June 9:\
-
      9 am: Research paper. [Morning session recording] \
     10 am: Research tools: VMs, Linux, Jupyter for Python programming \
     11 am: Research tools: Python I \
@@ -84,7 +83,6 @@ Meet at UW-River Falls with Tony Varghese
      9 am: \
     10 am: \
     11 am:  \ 
-    
     12 pm: Lunch\
      1 pm: Research background\
      2 pm: Background\
@@ -93,18 +91,16 @@ Meet at UW-River Falls with Tony Varghese
  5. Thursday July 2: \
      9 am: \
     10 am: \
-    11 am:   
-    
-    12 pm: Assignment #1 [Recording 1]\
-     1 pm: Tony has a meeting\
+    11 am: \
+    12 pm: Lunch\
+     1 pm: Assignment #1 [Recording 1]\
      2 pm: Assignment #2,3 
 
  6. Friday July 3 - Choose: holiday or workday? If you want to work, we can take either Monday the 6th or the 17th off!\
      9 am: \
     10 am: \
     11 am:  \ 
-    
-    12 pm: \
+    12 pm: Lunch \
      1 pm: \
      2 pm: \
      3 pm: \
@@ -118,8 +114,7 @@ Meet at UW-River Falls with Tony Varghese
      9 am: \
     10 am: \
     11 am:  \ 
-    
-    12 pm: \
+    12 pm: Lunch \
      1 pm: \
      2 pm: \
      3 pm: \
@@ -128,7 +123,6 @@ Meet at UW-River Falls with Tony Varghese
      9 am: \
     10 am: \
     11 am: \  
-    
     12 pm: Lunch\
      1 pm:\
      2 pm: \
@@ -138,7 +132,7 @@ Meet at UW-River Falls with Tony Varghese
      9 am: \
     10 am: \
     11 am:  \ 
-    
+    12 pm: Lunch\
      1 pm: \
      2 pm: \
      3 pm: \
@@ -147,7 +141,7 @@ Meet at UW-River Falls with Tony Varghese
      9 am: \
     10 am: \
     11 am:  \ 
-    
+    12 pm: Lunch\
      1 pm: \
      2 pm: \
      3 pm: \
@@ -173,8 +167,7 @@ Meet at UW-River Falls with Tony Varghese
      9 am: \
     10 am: \
     11 am: \  
-    
-    12 pm: \
+    12 pm: Lunch\
      1 pm: \
      2 pm: \
      3 pm: \
@@ -183,7 +176,6 @@ Meet at UW-River Falls with Tony Varghese
      9 am: \
     10 am: \
     11 am:  \ 
-    
     12 pm: Lunch\
      1 pm:\
      2 pm: \
@@ -193,7 +185,7 @@ Meet at UW-River Falls with Tony Varghese
      9 am: \
     10 am: \
     11 am:  \ 
-    
+    12 pm: Lunch\
      1 pm: \
      2 pm: \
      3 pm: \
@@ -202,7 +194,7 @@ Meet at UW-River Falls with Tony Varghese
      9 am: \
     10 am: \
     11 am: \  
-    
+    12 pm: Lunch\
      1 pm: \
      2 pm: \
      3 pm: \
