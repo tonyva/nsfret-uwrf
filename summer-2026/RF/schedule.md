@@ -1,15 +1,13 @@
 # Schedule for NSF RET 2025 Summer
 
-June 9 to July 3
+June 8 to July 3
 
-## Week 1: Monday June 9 thru Wednesday June 11
+## Week 1: Monday June 8 thru Friday June 12
 
-Steve Song\
-Jacob Hendricks\
-Jodie Bray - unable to attend\
-Tony Varghese
+Meet at UW-River Falls with Tony Varghese
+- University Center
 
- 1. Monday June 9:\
+ 1. Monday June 8:\
      9 am: Introductions, Educator needs survey. Recording 1 [is here](https://uwrf-my.sharepoint.com/:v:/g/personal/anthony_varghese_uwrf_edu/EcyoHYcNLM9OpgsmB_fmub8BBfGXJlGpWNg7sxpq2kUOBQ?e=qfJpj1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)\
     10 am: Research - first look at paper and glossaary [Recording 2](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EcwehTVMjW1EvwrZYCxL1osB8RyHVp9_-g3zkxlnCTOWSw?e=JRYI93)\
     11 am: Research Background - biology\
@@ -18,7 +16,7 @@ Tony Varghese
      2 pm: Python I [Recording 4](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EZdynYYhxYVKoG9uS6E6otsBmp6tyJW9fQ45hpJjLb0aZA?e=i1ERed)\
      3 pm: Research - another look at the paper
 
- 2. Tuesday June 10:\
+ 2. Tuesday June 9:\
      9 am: Research - paper.
      [Morning session recording](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EQ4sP2oSeO1Fojjt-V3Jg4cB0UUBFNq0nzRd3Q2qzFI3Hg?e=UDryac&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)\
     10 am: Research background\
@@ -29,7 +27,7 @@ Tony Varghese
      [Afternoon session recording](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/Ed3UT_YdC01HtvWfWpS_WvoBpqWs-Kl52svYvC0J4LQYGA?e=uIqW9E&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
      3 pm: Python II; Research - paper
 
- 4. Wednesday June 11:\
+ 3. Wednesday June 10:\
      9 am: Research - paper
     [Morning meeting](https://uwrf.sharepoint.com/:v:/s/NSFRET2025Summer/EZolF3MHZGdGuUVuPHZnZmMBMmesZY8hlWZ4Xr1GMYNQnQ?e=lEkItN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)\
     10 am: Research background\
@@ -41,13 +39,30 @@ Tony Varghese
      3 pm: Research - paper
 
 
-## Week 2: Monday June 16 thru Wednesday June 20\
-
-Steve Song\
-Jodie Bray - unable to attend\
-Tony Varghese: busy with UWRF duties in the morning
+ 4. Thursday June 11:\
+     9 am: Research - paper
 
 
+
+ 5. Friday June 12: - Meet in Eau Claire for High Performance Compujting
+     9 am: 
+
+
+
+## Week 2: Monday June 15 thru Friday June 19\
+
+Meet at UW-Stout for Scholarship of Teaching and Learning (SoTL)
+-  Dr. Katrina Rothrock
+
+## Week 3: Monday June 22 thru Friday June 26\
+
+Meet at UW-Stout for SoTL
+-  Dr. Katrina Rothrock
+-  Dr. Abhimanyu Ghosh
+
+
+
+## Week 4: Monday June 28 thru Friday July 2\
  1. Monday June 16:\
     Morning: please discuss any problems you may have run into or questions about material from the previous week.
      
@@ -79,11 +94,9 @@ Tony Varghese: busy with UWRF duties in the morning
      2 pm: Python IX\
      3 pm: Research - paper
 
-## Week 3: Monday June 23 thru Friday June 27
+## Week 5: Tuesday July 7 thru Friday July 10\
 
-Steve Song: would like to attend CodeSavvy - Weds: HPC in Eau Claire\
-Jodie Bray: available in afternoons - Weds: HPC in Eau Claire\
-Tony Varghese: in Eau Claire on Thursday
+Tony Varghese: 
 
  1. Monday June 23:\
      Steve has Code Savvy this day\
@@ -117,10 +130,9 @@ Tony Varghese: in Eau Claire on Thursday
 
 
 
-## Week 4: Monday June 30 thru Thursday July 3\
+## Week 6: Monday July 13 thru Friday July 17\
 
-Steve Song\
-Jodie Bray\
+
 Tony Varghese: 
 
 
@@ -161,6 +173,14 @@ Tony Varghese:
      3 pm: 
 
  5. Friday July 4: Holiday
+
+
+
+## Week 7: Monday July 20 thru Friday July 24\
+
+Meet at UW-Stout for SoTL
+-  Dr. Katrina Rothrock
+-  Dr. Abhimanyu Ghosh
 
 ## Done!
 
