@@ -1,13 +1,11 @@
-# Schedule for NSF RET 2025 Summer
-
-June 8 to July 24
+# Schedule for NSF RET Summer 2026 June 8 to July 24
 
 ## Week 1: Monday June 8 thru Friday June 12
 
 Meet at UW-River Falls with Tony Varghese
 - University Center
 
- 1. Monday June 8:\
+ 1. Monday June 8: Meet in the afternoon only\
      1 pm: Introductions, Educator needs survey. [Recording]
      2 pm: Research - first look at research paper and glossaary 
      3 pm: Research Background - biology\
@@ -34,7 +32,6 @@ Meet at UW-River Falls with Tony Varghese
      2 pm: Python IV\
      3 pm: Research paper
 
-
  4. Thursday June 11:\
      9 am: Research paper
     10 am: Research background\
@@ -44,20 +41,16 @@ Meet at UW-River Falls with Tony Varghese
      2 pm: Python V\
      3 pm: Research paper
 
-
-
  5. Friday June 12: - Meet in Eau Claire for High Performance Compujting
      9 am: HPC meeting 
 
 
 
 ## Week 2: Monday June 15 thru Friday June 19\
-
 Meet at UW-Stout for Scholarship of Teaching and Learning (SoTL)
 -  Dr. Katrina Rothrock
 
 ## Week 3: Monday June 22 thru Friday June 26\
-
 Meet at UW-Stout for SoTL
 -  Dr. Katrina Rothrock
 -  Dr. Abhimanyu Ghosh
@@ -65,6 +58,10 @@ Meet at UW-Stout for SoTL
 
 
 ## Week 4: Monday June 29 thru Friday July 3\
+
+Meet at UW-River Falls with Tony Varghese
+- University Center
+
  1. Monday June 29:\
 
      9 am: Review problems you may have run into or questions about material from the previous weeks.\
@@ -114,6 +111,10 @@ Meet at UW-Stout for SoTL
      3 pm: 
 
 ## Week 5: Monday July 6 thru Friday July 10\
+
+Meet at UW-River Falls with Tony Varghese
+- University Center
+
 
 Tony Varghese: 
 
@@ -168,6 +169,10 @@ Tony Varghese:
 
 
 ## Week 6: Tuesday July 13 thru Friday July 17\
+
+Meet at UW-River Falls with Tony Varghese
+- University Center
+
  1. Monday July 13: \
      9 am: 
     10 am: \
@@ -218,11 +223,12 @@ Tony Varghese:
 
 
 
-## Week 6: Monday July 20 thru Friday July 24\
+## Week 7: Monday July 20 thru Friday July 24\
 
 Meet at UW-Stout for SoTL
 -  Dr. Katrina Rothrock
 -  Dr. Abhimanyu Ghosh
 
-## Done!
+ 5. Friday July 24: Closing session at Stout ith all participants
 
+## Done!
