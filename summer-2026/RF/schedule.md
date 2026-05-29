@@ -27,8 +27,8 @@ Meet at UW-River Falls with Tony Varghese
     10 am: Research background\
     11 am: Research background\
     12 pm: Lunch\
-     1 pm: Python III\ [Afternoon meeting] \
-     2 pm: Python IV\
+     1 pm: Python III [Afternoon meeting] \
+     2 pm: Python \
      3 pm: Research paper
 
  4. Thursday June 11:\
@@ -36,8 +36,8 @@ Meet at UW-River Falls with Tony Varghese
     10 am: Research background\
     11 am: Research background\
     12 pm: Lunch - Tony has a meeting to attend.\
-     1 pm: Python IV\ [Afternoon meeting]
-     2 pm: Python V\
+     1 pm: Python IV [Afternoon meeting] \
+     2 pm: Python \
      3 pm: Research paper
 
  5. Friday June 12: - Meet in Eau Claire for High Performance Computing \
@@ -64,11 +64,11 @@ Meet at UW-River Falls with Tony Varghese
  1. Monday June 29:\
      9 am: Review problems you may have run into or questions about material from the previous weeks.\
     10 am: \
-    11 am: \  
+    11 am: \
     12 pm: Lunch\
      1 pm: Python V\
-     2 pm: Python VI\
-     3 pm: Research - paper \ [Afternoon session recording]
+     2 pm: Python \
+     3 pm: Research - paper  [Afternoon session recording]\
 
  3. Tuesday June 30: [Afternoon session recording]
      9 am: \
@@ -117,7 +117,7 @@ Meet at UW-River Falls with Tony Varghese
     12 pm: Lunch \
      1 pm: \
      2 pm: \
-     3 pm: \
+     3 pm: 
 
  2. Tuesday July 7:\
      9 am: \
@@ -135,7 +135,7 @@ Meet at UW-River Falls with Tony Varghese
     12 pm: Lunch\
      1 pm: \
      2 pm: \
-     3 pm: \
+     3 pm: 
 
  4. Thursday July 9: 
      9 am: \
@@ -144,7 +144,7 @@ Meet at UW-River Falls with Tony Varghese
     12 pm: Lunch\
      1 pm: \
      2 pm: \
-     3 pm: \
+     3 pm: 
 
 
  5. Friday July 10: 
@@ -170,7 +170,7 @@ Meet at UW-River Falls with Tony Varghese
     12 pm: Lunch\
      1 pm: \
      2 pm: \
-     3 pm: \
+     3 pm: 
 
  2. Tuesday July 14:\
      9 am: \
@@ -188,7 +188,7 @@ Meet at UW-River Falls with Tony Varghese
     12 pm: Lunch\
      1 pm: \
      2 pm: \
-     3 pm: \
+     3 pm: 
 
  4. Thursday July 16: 
      9 am: \
@@ -197,7 +197,7 @@ Meet at UW-River Falls with Tony Varghese
     12 pm: Lunch\
      1 pm: \
      2 pm: \
-     3 pm: \
+     3 pm: 
 
 
  5. Friday July 17: 
