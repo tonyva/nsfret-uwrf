@@ -3,7 +3,8 @@
 ## Week 1: Monday June 8 thru Friday June 12
 
 Meet at UW-River Falls with Tony Varghese
-- Locations TBD
+- Location: UWRF SciTech Building-[building 7 on this map](https://www.uwrf.edu/about/campus-map) Room 335, Event Number: J9859 
+-  Room Technology(https://technology.uwrf.edu/TDClient/1979/Portal/KB/Article/136244/Classroom-Technology-Equipment-and-Usage) 
 
  1. Monday June 8: Amy, Hali - Meet in the afternoon only\
      1 pm: Introductions, Survey of Educator Teaching needs. [Recording] \
