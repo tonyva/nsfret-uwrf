@@ -4,7 +4,7 @@ This is the repository of files for the 2025 summer workshop for educators at UW
 
 Here, you will find all the:
 - Research:
-  - [Paper](../../old/RF/01Research/Papers/README.md) discussed
+  - Paper  discussed - see 01Research/Papers/README.md
   - Tools for research
     -  Linux VM information
     -  Bioinformatics "lecture" files
