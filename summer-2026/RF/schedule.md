@@ -7,23 +7,23 @@ Meet at UW-River Falls with Tony Varghese
 -  Room Technology(https://technology.uwrf.edu/TDClient/1979/Portal/KB/Article/136244/Classroom-Technology-Equipment-and-Usage) 
 
  1. Monday June 8: Amy, Hali - Meet in the afternoon only\
-     1 pm: Introductions, Survey of Educator Teaching needs. [Recording] \
+     1 pm: Introductions, Survey of Educator Teaching needs. \
      2 pm: Research - first look at research paper \
      3 pm: Research Background - biology\
      4 pm: Wrap up
 
 
  2. Tuesday June 9: Amy, Hali\
-     9 am: Research paper. [Morning session recording] \
+     9 am: Research paper. \
     10 am: Research tools: VMs, Linux, Jupyter for Python programming \
     11 am: Research tools: Python I \
     12 pm: Lunch \
-     1 pm: Research paper. [Afternoon session recording] \
+     1 pm: Research paper. \
      2 pm: Research tools: bash shell, git, GitHub, Jupyter \
      3 pm: Python II \
      4 pm: Wrap up
 
- 3. Wednesday June 10: Hali\
+ 3. Wednesday June 10: Online today - Hali\
      9 am: Research paper [Morning meeting] \
     10 am: Research background - bioinformatics\
     11 am: Research background - bioinformatics\
@@ -32,7 +32,7 @@ Meet at UW-River Falls with Tony Varghese
      2 pm: Python \
      3 pm: Research paper
 
- 4. Thursday June 11: Hali\
+ 4. Thursday June 11: Online - Hali\
      9 am: Research paper \
     10 am: Research background - bioinformatics\
     11 am: Research background - bioinformatics\
