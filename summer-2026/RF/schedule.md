@@ -9,40 +9,33 @@ Meet at UW-River Falls with Tony Varghese
  1. Monday June 8: Amy, Hali - Meet in the afternoon only\
      1 pm: Introductions, Survey of Educator Teaching needs. \
      2 pm: Research - first look at research paper \
-     3 pm: Research Background - biology\
+     3 pm: Research Background - biology: Topic 1\
      4 pm: Wrap up
 
 
  2. Tuesday June 9: Amy, Hali\
      9 am: Research paper. \
     10 am: Research tools: VMs, Linux, Jupyter for Python programming \
-    11 am: Research tools: Python I \
+    10:30 am - noon: Visit to Rose garden\
     12 pm: Lunch \
      1 pm: Research paper. \
-     2 pm: Research tools: bash shell, git, GitHub, Jupyter \
-     3 pm: Python II \
-     4 pm: Wrap up
+     2 pm: Research background - biology topics 1-3 \
+     2:30 pm: Wrap up
 
- 3. Wednesday June 10: Online today - Hali\
-     9 am: Research paper [Morning meeting] \
-    10 am: Research background - bioinformatics\
-    11 am: Research background - bioinformatics\
+ 4. Wednesday June 10: Online today - Hali\
+     9 am: Research paper [Morning meeting 1]\
+    10 am: Python 2 [Morning meeting 2]\
+    11 am: Research background - bioinformatics Topics 1-3 review and Topic 4: BLAST\
     12 pm: Lunch\
-     1 pm: Python III [Afternoon meeting] \
-     2 pm: Python \
-     3 pm: Research paper
 
- 4. Thursday June 11: Online - Hali\
-     9 am: Research paper \
-    10 am: Research background - bioinformatics\
+ 6. Thursday June 11: Online - Hali\
+     9 am: Research background - bioinformatics Topic 5 - Sequence Alignment [Morning meeting 1] \
+    10 am: Python 3 [Morning meeting 2] \
     11 am: Research background - bioinformatics\
-    12 pm: Lunch - Tony has a meeting to attend.\
-     1 pm: Python IV [Afternoon meeting] \
-     2 pm: Python \
-     3 pm: Research paper
-
- 5. Friday June 12: - Meet in Eau Claire for High Performance Computing \
-     9 am: HPC meeting 
+    12 pm: Lunch
+    
+ 8. Friday June 12: - Meet in Eau Claire for High Performance Computing \
+     9 am: HPC meeting in Eau Claire
 
 
 
