@@ -26,11 +26,11 @@ Meet at UW-River Falls with Tony Varghese
      9 am: Research paper [Morning meeting 1]\
     10 am: Python 2 [Morning meeting 2]\
     11 am: Research background - bioinformatics Topics 1-3 review and Topic 4: BLAST\
-    12 pm: Lunch\
+    12 pm: Lunch
 
  6. Thursday June 11: Online - Hali\
      9 am: Research background - bioinformatics Topic 5 - Sequence Alignment [Morning meeting 1] \
-    10 am: Python 3 [Morning meeting 2] \
+    10 am: Python 3 [Morning meeting 2] Python strings, DNA sequence as Py string, regular expressions, FASTA file\
     11 am: Research background - bioinformatics\
     12 pm: Lunch
     
