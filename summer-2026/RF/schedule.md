@@ -57,7 +57,7 @@ Meet at UW-Stout for SoTL
 ## Week 4: Monday June 29 thru Friday July 3\
 
 Meet at UW-River Falls with Tony Varghese
-- Location TBD
+- Location: Rm 335, Sci-Tech  Building, UWRF
 - Hali
 - Amy
  1. Monday June 29:\
@@ -65,7 +65,7 @@ Meet at UW-River Falls with Tony Varghese
     10 am: Research paper\
     11 am: Artificial intelligence - LLMs\
     12 pm: Lunch\
-     1 pm: Python V\
+     1 pm: Python IV\
      2 pm: Python \
      3 pm: Research - paper  [Afternoon session recording]\
 
@@ -80,16 +80,14 @@ Meet at UW-River Falls with Tony Varghese
 
  4. Wednesday July 1: [Afternoon session]
      9 am: Artificial intelligence - LLMs\
-    10 am: Artificial intelligence - LLMs\
-    11 am: Artificial intelligence - LLMs\
+    10 am: Bioinformatics\
+    11 am: Bioinformatics\
     12 pm: Lunch\
      1 pm: Research background\
-     2 pm: Background\
-     3 pm: Research - paper
 
  5. Thursday July 2: \
      9 am: Artificial intelligence - LLMs\
-    10 am: Artificial intelligence - LLMs\
+    10 am: Python\
     11 am: Python\
     12 pm: Lunch\
      1 pm: Assignment #1 [Recording 1]\
@@ -97,17 +95,15 @@ Meet at UW-River Falls with Tony Varghese
 
  6. Friday July 3 - Choose: holiday or workday? If you want to work, we can take either Monday the 6th or the 17th off!\
      9 am: AI - LLMs\
-    10 am: AI - LLMs\
-    11 am: AI - LLMs\
+    10 am: Python
+    11 am: Python
     12 pm: Lunch \
      1 pm: AI - LLMs\
-     2 pm: AI - LLMs\
-     3 pm: AI - LLMs 
 
 ## Week 5: Monday July 6 thru Friday July 10\
 
 Meet at UW-River Falls with Tony Varghese
-- Location TBD
+- Location: Rm 335, Sci-Tech  Building, UWRF, or online
 - Hali
 - Amy will be remote
 
@@ -162,7 +158,7 @@ Meet at UW-River Falls with Tony Varghese
 ## Week 6: Tuesday July 13 thru Friday July 17\
 
 Meet at UW-River Falls with Tony Varghese
-- Location TBD
+- Location: Rm 335, Sci-Tech  Building, UWRF, or online
 - Hali
 - Amy will be remote
 
@@ -222,6 +218,6 @@ Meet at UW-Stout for SoTL
 - Hali
 - Amy will be remote
 
- 5. Friday July 24: Closing session at Stout ith all participants
+ 5. Friday July 24: Closing session at Stout with all participants
 
 ## Done!
