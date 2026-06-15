@@ -9,7 +9,7 @@ Meet at UW-River Falls with Tony Varghese
  1. Monday June 8: Amy, Hali - Meet in the afternoon only\
      1 pm: Introductions, Survey of Educator Teaching needs. \
      2 pm: Research - first look at research paper \
-     3 pm: Research Background - biology: Topic 1\
+     3 pm: Research Background - biology: Topic 1 - Genes and DNA Sequences\
      4 pm: Wrap up
 
 
@@ -19,19 +19,19 @@ Meet at UW-River Falls with Tony Varghese
     10:30 am - noon: Visit to Rose garden\
     12 pm: Lunch \
      1 pm: Research paper. \
-     2 pm: Research background - biology topics 1-3 \
+     2 pm: Research background - biology topics 1,2 - Genes and Gene Sequences\
      2:30 pm: Wrap up
 
  4. Wednesday June 10: Online today - Hali\
      9 am: Research paper [Morning meeting 1]\
     10 am: Python 2 [Morning meeting 2]\
-    11 am: Research background - bioinformatics Topics 1-3 review and Topic 4: BLAST\
+    11 am: Research background - bioinformatics Topics 1,2 review and Topics 3-4: Sequences and databases\
     12 pm: Lunch
 
  6. Thursday June 11: Online - Hali\
      9 am: Research background - bioinformatics Topic 5 - Sequence Alignment [Morning meeting 1] \
     10 am: Python 3 [Morning meeting 2] Python strings, DNA sequence as Py string, regular expressions, FASTA file\
-    11 am: Research background - bioinformatics\
+    11 am: Research background - bioinformatics Topics 5-6: Sequence Alignment and BLAST\
     12 pm: Lunch
     
  8. Friday June 12: - Meet in Eau Claire for High Performance Computing \
@@ -63,7 +63,7 @@ Meet at UW-River Falls with Tony Varghese
  1. Monday June 29:\
      9 am: Review problems you may have run into or questions about material from the previous weeks.\
     10 am: Research paper\
-    11 am: Artificial intelligence - LLMs\
+    11 am: Biology background - Topic 6 Sequence Alignment II review and Topic 7 - Algorithms \
     12 pm: Lunch\
      1 pm: Python IV\
      2 pm: Python \
@@ -74,16 +74,16 @@ Meet at UW-River Falls with Tony Varghese
     10 am: Visit to Rose garden\
     11 am: Visit to Rose garden\
     12 pm: Lunch\
-     1 pm: Research background\
-     2 pm: Background\
+     1 pm: Research background - Topic 8 Multiple sequence alignment\
+     2 pm: Background  - Topic 9 Genomes I\
      3 pm: Research - paper
 
  4. Wednesday July 1: [Afternoon session]
      9 am: Artificial intelligence - LLMs\
-    10 am: Bioinformatics\
-    11 am: Bioinformatics\
+    10 am: Bioinformatics - Topic 9.2 Genomes II\
+    11 am: Bioinformatics - Topic 9.3 Genomes II\
     12 pm: Lunch\
-     1 pm: Research background\
+     1 pm: Research background  - Topic 10 Phylogenetics\
 
  5. Thursday July 2: \
      9 am: Artificial intelligence - LLMs\
