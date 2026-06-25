@@ -61,7 +61,9 @@ Meet at UW-River Falls with Tony Varghese
 - Hali
 - Amy
  1. Monday June 29:\
-     9 am: Review problems you may have run into or questions about material from the previous weeks.\
+     9 am: Review problems you may have run into or questions about\
+           material from the previous weeks, findings from the SoTL meetings\
+           What will you need to develop a curricular module?
     10 am: Research paper\
     11 am: Biology background - Topic 6 Sequence Alignment II review and Topic 7 - Algorithms \
     12 pm: Lunch\

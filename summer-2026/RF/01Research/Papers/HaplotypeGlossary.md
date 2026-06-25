@@ -1,14 +1,28 @@
 1. Interspecific hybrid:
     result of crossing 2 species within a genus
     Classification of living things: ... Family, Genus, Species
-
+    Note: 
+    - Crossing two different species initially produces a hybrid that has half
+      its chromosomes from one parent and half from the other.
+      Because these chromosomes are too mismatched to pair up during cell division,
+      the hybrid is typically sterile.
+    - If the hybrid undergoes whole-genome doubling where the entire set of
+      chromosomes duplicates without dividing the cell, it creates an allopolyploid.
+      This gives each individual chromosome an identical partner to pair with during
+      meiosis, which restores fertility and effectively creates a brand-new,
+      self-sustaining species.
+      Prevalence in Nature: This doubling process is common in the evolution of plants
+      (e.g., wheat, cotton, and many wildflowers). An estimated 30% of flowering plants
+      have undergone this. Rare in animals.
+    
 2. haplotype:
     a set of DNA variations inherited together
     e.g. genes on a single chromosome
 
 3. haplotype-resolved genome:
-    genomes with variations within chromosome copies
+    genomes with variations within chromosome copies - the variations have been determined
     e.g. variation between genes from different parents
+
 
 4. Homologous chromosomes:
     duplicate/similar chromosomes
@@ -17,12 +31,27 @@
 5. Homeologous exchanges:
     exchanges of genetic material between non-identical chromosomes from a common ancestor
 
+
 6. Selective sweeps:
     rapid spread of a (beneficial) mutation through a population resulting in lower genetic variation in that population
 
 7. reticulate evolution:
-    emergence of a new lineage through merging of ancestor lineages resulting a phylogenetic Network rather than a tree
-
+    emergence of a new lineage through merging of ancestor lineages resulting a
+      phylogenetic Network rather than a tree
+    In the context of this paper,
+    both the old Chinese cultivars
+        - R. odorata var. gigantea
+        - R. chinensis var. spontanea
+        - R. chinensis odorata "Old Blush"
+        - R. wichuraiana
+        - R. rugosa
+        - R. fedtschenkoana
+    and the old European cultivars
+        - R. moschata - in South and West Asia
+        - R. gallica - in Europe
+        - R. canina
+    originated from reticulate evolution - merging of two or more lineages.
+    
 8. ploidy level:
     number of sets of chromosomes in a cell/genome
     e.g. humans are diploid - ploidy is 2
@@ -71,7 +100,10 @@
       c. tissue culture
       d. seed production
       e. offset - small plant (clone) produced asexually from a parent
-
+    cf. "botanical" variety - natural selection
+    There are about 35,000 Rose cultivars
+    
+    
 18. Heterozygosity:
     having two or more forms of a gene, i.e. alleles
     in an organism's genetic makeup
@@ -90,10 +122,33 @@
     
 =======================================
 Note on Rose tetraploid genome size:
+
+Chromosome count:
+2n      =        4x                            = 28
+^                 x  means monoploid             Samantha has 28 chromosomes
+|                 2x means diploid
+|                 3x means triploid
+|                 4x means tetraploid
+|                 5x means pentaploid
+|                  ...
+|
+Somatic cells (i.e. not gametes)
+-> 2 copies of each chromosome
+    - one from each parent
+
+Gametes normally have a single copy of each chromosome.
+
+
    The number of (single strand) DNA bases in 4 sets (ploidy) of chromosomes x 7 chromosomes is 2 billion bases (2Gb)
    => each set of 7 chromosomes will have 2/4 => 0.5 Gb
 
-cf. Humans have 3 Gb
+    Various sequencing results showed that
+    R. chinensis (2018) haploid genome was 500 Mbp - 36,377 genes
+    Samantha - R. hybrida - (2024) tetraploid genome was 2 Gbp - 141,827 protein coding genes
+    Roses in general (Pangenome 2026 paper) have 16,844 "essential genes common to all Rose species
+    
+
+cf. Humans have 3 Gb - 20,500 "genes"
 =======================================
 
 Note of the number of "reads" i.e. "short" sequences
@@ -104,29 +159,64 @@ Note of the number of "reads" i.e. "short" sequences
                                   Chromosome Conformation (shape) and Capture (3C)
                                   Tells us the frequency with which 2 DNA fragments physically associate in three dimensions
 -  43 Gb of Pore-C data -> 3C plus Ox Nano to look at chromatin structure
-
+=======================================
 
 
 22. Allele dosage
+
 23. Assele ratio
+
 24. Chromosom attribution
+
 25. Clonal propagation
+
 26. Disease resistance gene
+
+- Double flower
+
+
 27. Ethylene biosynthesis
+
 28. Fixation index
+
 29. Flow cytometry
+
 30. Flower meristem
+
 31. Genome Assembly
+
 32. Genome introgression
+
 33. Genome variation map
+
+    
 34. Genome composition
+
+-  Infloresence type
+
 35. Rosa accessions
+
 36. Illumina short-read
+
 37. Linkage disequilibrium
+
 38. Phylogenetic tree, analysis
+    - a "tree" of species showing the evolution of species
+    In the case of this paper, there were major contributions from R. chinensis and R. Synstylae
+    
+    7 "optimal populations:
+    R. chinensis was divided into two groups:
+      - Old Blush
+      - Hume's Tea-scented China - this contributed more to modern roses than Old Blush
+    R. odorata
 39. Population genomic analysis
+
 40. Pore-C sequencing
+
 41. Principal Component Analysis
+
 42. Single Nucleotide Polymorphism (SNP)
+
 43. SNP genotyping
+
 44. Variant frequency
