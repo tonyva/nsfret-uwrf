@@ -39,13 +39,13 @@ Meet at UW-River Falls with Tony Varghese
 
 
 
-## Week 2: Monday June 15 thru Friday June 19\
+## Week 2: Monday June 15 thru Friday June 19
 Meet at UW-Stout for Scholarship of Teaching and Learning (SoTL) \
 -  Dr. Katrina Rothrock
 - Hali
 - Amy is available 18, 19th
 
-## Week 3: Monday June 22 thru Friday June 26\
+## Week 3: Monday June 22 thru Friday June 26
 Meet at UW-Stout for SoTL
 -  Dr. Katrina Rothrock
 -  Dr. Abhimanyu Ghosh
@@ -54,7 +54,7 @@ Meet at UW-Stout for SoTL
 
 
 
-## Week 4: Monday June 29 thru Friday July 3\
+## Week 4: Monday June 29 thru Friday July 3
 
 Meet at UW-River Falls with Tony Varghese
 - Location: Rm 335, Sci-Tech  Building, UWRF
@@ -99,9 +99,9 @@ Meet at UW-River Falls with Tony Varghese
     10 am: Python
     11 am: Python
     12 pm: Lunch \
-     1 pm: AI - LLMs\
+     1 pm: AI - LLMs
 
-## Week 5: Monday July 6 thru Friday July 10\
+## Week 5: Monday July 6 thru Friday July 10
 
 Meet at UW-River Falls with Tony Varghese
 - Location: Rm 335, Sci-Tech  Building, UWRF, or online
@@ -156,7 +156,7 @@ Meet at UW-River Falls with Tony Varghese
 
 
 
-## Week 6: Tuesday July 13 thru Friday July 17\
+## Week 6: Tuesday July 13 thru Friday July 17
 
 Meet at UW-River Falls with Tony Varghese
 - Location: Rm 335, Sci-Tech  Building, UWRF, or online
@@ -211,7 +211,7 @@ Meet at UW-River Falls with Tony Varghese
 
 
 
-## Week 7: Monday July 20 thru Friday July 24\
+## Week 7: Monday July 20 thru Friday July 24
 
 Meet at UW-Stout for SoTL
 -  Dr. Katrina Rothrock
