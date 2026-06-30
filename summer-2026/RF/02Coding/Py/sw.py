@@ -1,5 +1,22 @@
 #!/usr/bin/python3
 
+# This is a Python implementation of the Smith Waterman adynamic programming
+# algorithm. I found this by doing an AI-assisted Google search. 
+# It looks ok and when I used the same sequences as in the Topic 6 notes
+# this program gives a similar result.
+#   Run this program - no inputs needed - to see the output.
+# I am not sure that this works correctly - the results "seem" ok - which is
+# not the same thing as being "correct"
+#
+# There are many implementations in Python of Smith Waterman.
+#  Here are a couple more:
+#    1. https://gist.github.com/radaniba/11019717
+#    2. https://github.com/Seb943/Smith_Waterman_Py/blob/master/Smith-Waterman.py
+#  I cannot vouch for the correctness of any of these - you may want to check
+#  them before relying on them.
+
+
+
 def smith_waterman(seq1: str, seq2: str, match=1, mismatch=0, gap=0):
     """
         Compute a local alignment of two sequences.
