@@ -72,15 +72,15 @@ Meet at UW-River Falls with Tony Varghese
      2 pm: Python [Recording 4](https://uwrf.sharepoint.com/:v:/r/sites/NSFRETSummer2026/Shared%20Documents/General/Recordings/RET%20meetings%20on%20UWRF%20campus-20260629_113937-Meeting%20Recording.mp4?csf=1&web=1&e=2KB4kt)
 
  3. Tuesday June 30: Meet online today\
-     9 am: Python IV - Debugging in Colab  [Morning session recording]\
+     9 am: Python IV - Debugging, Colab\
     10 am: Python \
     11 am: Research background - Topic 7\
     12 pm: Lunch\
-     1 pm: Research background - Topic 8 Multiple sequence alignment\
-     2 pm: Background  - Topic 9 Genomes I, Research - paper
+     1 pm: Research background - Topic 9 Genomes\
+     2 pm: Background  - Research - paper, Glossary
 
  4. Wednesday July 1: \
-     9 am: Artificial intelligence - LLMs [Afternoon session]\
+     9 am: Artificial intelligence - LLMs \
     10 am: Bioinformatics - Topic 9.2 Genomes II\
     11 am: Bioinformatics - Topic 9.3 Genomes II\
     12 pm: Lunch\

@@ -186,6 +186,10 @@ Note of the number of "reads" i.e. "short" sequences
 31. Genome Assembly
 
 32. Genome introgression
+    - stable integration of genetic material from one species into the gene pool of another through
+    backcrossing of hybrids of 2 or more species with a parental species.
+    This makes specific alleles to permeate the final mosaic genome with interspersed segments from
+    different species.
 
 33. Genome variation map
 
@@ -211,7 +215,14 @@ Note of the number of "reads" i.e. "short" sequences
     R. odorata
 39. Population genomic analysis
 
-40. Pore-C sequencing
+40. HiC and Pore-C sequencing:
+    Hi-C sequencing is a genomic sequencing technique that captures the three-dimensional (3D) structure of
+    chromatin within the cell nucleus. It combines Chromosome Conformation Capture (3C) with sequencing to
+    identify physical interactions between distant genomic regions that may be close in 3D space.
+    A Hi-C heatmap is a two-dimensional (2D) representation of genomic interactions.
+    The axes of the heatmap correspond to linear genomic coordinates and the color intensity of
+    each cell represents how often there is physical contact between those two regions in 3D space.
+    Pore-C sequencing does the same as HiC except that it uses long reads - Ox Nanopore.
 
 41. Principal Component Analysis
 
