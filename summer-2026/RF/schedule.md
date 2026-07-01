@@ -82,22 +82,21 @@ Meet at UW-River Falls with Tony Varghese
  4. Wednesday July 1: \
      9 am: Artificial intelligence - LLMs \
     10 am: Bioinformatics - Topic 9.2 Genomes II\
-    11 am: Bioinformatics - Topic 9.3 Genomes II\
+    11 am: Bioinformatics - Topic 9.2 Genomes II\
     12 pm: Lunch\
-     1 pm: Research background  - Topic 10 Phylogenetics\
+     1 pm: Research background  - Topic 9.3 Genomes III
 
  5. Thursday July 2: \
-     9 am: Artificial intelligence - LLMs\
-    10 am: Python\
+     9 am: Artificial intelligence - LLMs - Gemini Gems\
+    10 am: Topic 10 - Phylogenetics\
     11 am: Python\
     12 pm: Lunch\
-     1 pm: Assignment #1 [Recording 1]\
-     2 pm: Assignment #2,3 
+     1 pm: Assignment #1, 2
 
- 6. Friday July 3 - Choose: holiday or workday? If you want to work, we can take either Monday the 6th or the 17th off!\
-     9 am: AI - LLMs\
-    10 am: Python
-    11 am: Python
+ 6. Friday July 3: \
+     9 am: Python \
+    10 am: Python \
+    11 am: Assignment #2, 3\
     12 pm: Lunch \
      1 pm: AI - LLMs
 
