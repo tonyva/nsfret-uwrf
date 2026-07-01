@@ -87,11 +87,11 @@ Meet at UW-River Falls with Tony Varghese
      1 pm: Research background  - Topic 9.3 Genomes III
 
  5. Thursday July 2: \
-     9 am: Artificial intelligence - LLMs - Gemini Gems\
-    10 am: Topic 10 - Phylogenetics\
-    11 am: Python\
+     
+    10 am: Artificial intelligence - LLMs - Gemini Gems\
+    11 am: Topic 10 - Phylogenetics\
     12 pm: Lunch\
-     1 pm: Assignment #1, 2
+     1 pm: Python Assignment #1, 2
 
  6. Friday July 3: \
      9 am: Python \
@@ -103,7 +103,7 @@ Meet at UW-River Falls with Tony Varghese
 ## Week 5: Monday July 6 thru Friday July 10
 
 Meet at UW-River Falls with Tony Varghese
-- Location: Rm 335, Sci-Tech  Building, UWRF, or online
+- Location: Online
 - Hali
 - Amy will be remote
 
@@ -117,10 +117,6 @@ Meet at UW-River Falls with Tony Varghese
      3 pm: Research - paper
 
  2. Tuesday July 7:\
-     9 am: Research - paper\
-    10 am: Bioinformatics\
-    11 am: Bioinformatics\
-    12 pm: Lunch\
      1 pm: Bioinformatics\
      2 pm: Bioinformatics\
      3 pm: Research - paper
