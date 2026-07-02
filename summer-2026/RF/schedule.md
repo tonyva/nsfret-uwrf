@@ -87,7 +87,6 @@ Meet at UW-River Falls with Tony Varghese
      1 pm: Research background  - Topic 9.3 Genomes III
 
  5. Thursday July 2: \
-     
     10 am: Artificial intelligence - LLMs - Gemini Gems\
     11 am: Topic 10 - Phylogenetics\
     12 pm: Lunch\
