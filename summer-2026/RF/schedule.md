@@ -154,7 +154,7 @@ Meet at UW-River Falls with Tony Varghese
 ## Week 6: Tuesday July 13 thru Friday July 17
 
 Meet at UW-River Falls with Tony Varghese
-- Location: Rm 335, Sci-Tech  Building, UWRF, or online
+- Location: Online
 - Hali
 - Amy will be remote
 
@@ -168,11 +168,7 @@ Meet at UW-River Falls with Tony Varghese
      3 pm: Research - paper
 
  2. Tuesday July 14:\
-     9 am: Research - paper\
-    10 am: Bioinformatics\
-    11 am: Bioinformatics\
-    12 pm: Lunch\
-     1 pm:Bioinformatics\
+     1 pm: Bioinformatics\
      2 pm: Bioinformatics\
      3 pm: Research - paper
 
