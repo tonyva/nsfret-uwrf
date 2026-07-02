@@ -93,12 +93,10 @@ Meet at UW-River Falls with Tony Varghese
      1 pm: Python Assignment #1, 2
 
  6. Friday July 3: \
-     9 am: Python \
-    10 am: Python \
-    11 am: Assignment #2, 3\
-    12 pm: Lunch \
-     1 pm: AI - LLMs
+    Homework only: Python catch up, questions, and Assignment #3\
+    No need to meet on campus
 
+    
 ## Week 5: Monday July 6 thru Friday July 10
 
 Meet at UW-River Falls with Tony Varghese
