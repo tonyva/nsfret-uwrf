@@ -87,19 +87,16 @@ Meet at UW-River Falls with Tony Varghese
      1 pm: Research background  - Topic 9.3 Genomes III
 
  5. Thursday July 2: \
-     
     10 am: Artificial intelligence - LLMs - Gemini Gems\
     11 am: Topic 10 - Phylogenetics\
     12 pm: Lunch\
      1 pm: Python Assignment #1, 2
 
  6. Friday July 3: \
-     9 am: Python \
-    10 am: Python \
-    11 am: Assignment #2, 3\
-    12 pm: Lunch \
-     1 pm: AI - LLMs
+    Homework only: Python catch up, questions, and Assignment #3\
+    No need to meet on campus
 
+    
 ## Week 5: Monday July 6 thru Friday July 10
 
 Meet at UW-River Falls with Tony Varghese
@@ -112,32 +109,25 @@ Meet at UW-River Falls with Tony Varghese
     10 am: Bioinformatics\
     11 am: Bioinformatics\
     12 pm: Lunch \
-     1 pm: Bioinformatics\
-     2 pm: Bioinformatics\
-     3 pm: Research - paper
+     1 pm: Bioinformatics, Research - paper
 
  2. Tuesday July 7:\
      1 pm: Bioinformatics\
-     2 pm: Bioinformatics\
-     3 pm: Research - paper
+     2 pm: Bioinformatics, Research - paper
 
  3. Wednesday July 8:
      9 am: Research - paper\
     10 am: Bioinformatics\
     11 am: Bioinformatics\
     12 pm: Lunch\
-     1 pm: Bioinformatics\
-     2 pm: Bioinformatics\
-     3 pm: Research - paper
+     1 pm: Bioinformatics, Research - paper
 
  4. Thursday July 9: 
      9 am: Research - paper\
     10 am: Bioinformatics\
     11 am: Bioinformatics\
     12 pm: Lunch\
-     1 pm: Bioinformatics\
-     2 pm: Bioinformatics\
-     3 pm: Research - paper
+     1 pm: Research - paper
 
 
  5. Friday July 10: 
@@ -145,9 +135,7 @@ Meet at UW-River Falls with Tony Varghese
     10 am: Bioinformatics\
     11 am: Bioinformatics\
     12 pm: Lunch\
-     1 pm: Bioinformatics\
-     2 pm: Bioinformatics\
-     3 pm: Research - paper
+     1 pm: Research - paper
 
 
 
@@ -163,32 +151,25 @@ Meet at UW-River Falls with Tony Varghese
     10 am: Bioinformatics\
     11 am: Bioinformatics\
     12 pm: Lunch\
-     1 pm: Bioinformatics\
-     2 pm: Bioinformatics\
-     3 pm: Research - paper
+     1 pm: Bioinformatics, Research - paper
 
  2. Tuesday July 14:\
      1 pm: Bioinformatics\
-     2 pm: Bioinformatics\
-     3 pm: Research - paper
+     2 pm: Bioinformatics, Research - paper
 
  3. Wednesday July 15:
      9 am: Research - paper\
     10 am: Bioinformatics\
     11 am: Bioinformatics\
     12 pm: Lunch\
-     1 pm: Bioinformatics\
-     2 pm: Bioinformatics\
-     3 pm: Research - paper
+     1 pm: Bioinformatics, Research - paper
 
  4. Thursday July 16: 
      9 am: Research - paper\
     10 am: Bioinformatics\
     11 am: Bioinformatics\
     12 pm: Lunch\
-     1 pm: Bioinformatics\
-     2 pm: Bioinformatics\
-     3 pm: Research - paper
+     1 pm: Bioinformatics, Research - paper
 
 
  5. Friday July 17: 
@@ -196,9 +177,7 @@ Meet at UW-River Falls with Tony Varghese
     10 am: Bioinformatics\
     11 am: Bioinformatics\
     12 pm: Lunch\
-     1 pm: Bioinformatics\
-     2 pm: Bioinformatics\
-     3 pm: Research - paper
+     1 pm: Bioinformatics, Research - paper
 
 
 
