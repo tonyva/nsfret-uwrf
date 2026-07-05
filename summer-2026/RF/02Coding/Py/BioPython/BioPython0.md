@@ -12,7 +12,7 @@ Python code. By using BioPython, we can accomplish tasks like:
    view specific atoms, amino acids, or chains.
 
 
-# Bio
+## Bio
 
 If we add "import Bio" in our Python program, when we run this program, the 
 Python interpreter will try to find the Bio package  on the computer on which
@@ -35,7 +35,7 @@ Some of the parts of BioPython are:
 
 
 
-# Bio.Seq
+## Bio.Seq
 
 This is an important Python class that we will use to set up Python objects 
 that can contain DNA, RNA, or protein sequence data.
@@ -75,12 +75,12 @@ reverse transcribe sequences. Or even translate RNA to protein:
 
 See [BioPython1.ipynb](BioPython1.ipynb) for example Python code that uses Seq.
 
-# Bio.SeqRecord
+## Bio.SeqRecord
 
 A SeqRecord contains a Seq object and metadata like an accession name or number, a description, a name, etc.
 
 
-# Bio.SeqIO
+## Bio.SeqIO
 
 This is a collection of functions used for reading files using SeqIO.parse and 
 SeqIO.read or writing using SeqIO.write.
@@ -89,7 +89,7 @@ We can also convert sequence data from one format to another using SeqIO.convert
 
 See [BioPython2.ipynb](BioPython2.ipynb) for example Python code that uses SeqIO. 
 
-# Bio.SeqUtils
+## Bio.SeqUtils
 
 SeqUtils is a module with a lot of utility finctions to compute
 mathematical or biochemical properties or do some simple pattern matching.
@@ -98,7 +98,7 @@ mathematical or biochemical properties or do some simple pattern matching.
 
 See [BioPython3.ipynb](BioPython3.ipynb) for example code that uses Bio.SeqUtils.
 
-# Bio.pairwise2, Bio.Align
+## Bio.pairwise2, Bio.Align
 
 The pairwise2 module is an older version of code to align two sequences. 
 The newer/better way of aligning things is the Bio.Align module which has
@@ -109,12 +109,33 @@ See [BioPythonPt2_1.ipynb](BioPythonPt2_1.ipynb),
     [BioPythonPt2_3.ipynb](BioPythonPt2_3.ipynb)
  to see these modules in use.
 
-# Bio.Blast
+## Bio.Blast
 
 This module can handle most types of Basic Local Alignment Search Tool (BLAST)
 tasks that can be done using the web interface for BLAST.
 
 See [BioPythonPt3_1.ipynb](BioPythonPt3_1.ipynb) for examples using Bio.Blast.
+
+
+## Assignment
+
+To apply our BioPython and bioinformatics skills, let's set up programs to
+analyze some real sequence information that Dr. Sonja Maki and I obtained:
+- [NinebarkSample.fasta](NinebarkSample.fasta)
+- [R.setigeraSample.fasta](R.setigeraSample.fasta)
+
+These two files each contains Ninebark or Rose cDNA sequences that we obtained
+by extracting mRNA and experimentally reverse-transcribing them to cDNA and
+then sequencing the DNA samples using Oxford Nanopore equipment.
+
+See if you can figure out how to write a Python program using BioPython
+to identify the genes in these two sequence files.
+Use the code in the abovementioned BioPython programs!
+
+
+
+
+
 
 
 
