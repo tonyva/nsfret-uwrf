@@ -42,11 +42,11 @@ that can contain DNA, RNA, or protein sequence data.
 
 Here is some simple Python code to create a sequence of nucleotides:
 
-from Bio.Seq import Seq\
+    from Bio.Seq import Seq\
 
-# Directly creates a sequence object without typing "Bio.Seq.Seq()"\
-coding_dna = Seq("AGTACACTG")\
-print(coding_dna)
+    \# Directly creates a sequence object without typing "Bio.Seq.Seq()"\
+coding_dna = Seq("AGTACACTG")
+    print(coding_dna)
 The above code will make the "Seq" Python class available to our Python program
 - we can create a Seq object and initialize it with a sequence of nucleotides.
 
@@ -54,17 +54,17 @@ Even though it may look like a regular "string", the Bio.Seq class was set up
 with a lot of logic that has to do with biological sequences.
 
 We can then do things like:
-messenger_rna = coding_dna.transcribe()\
-print(messenger_rna)                     # Output: AUGGCCAUU\
+    messenger_rna = coding_dna.transcribe()\
+    print(messenger_rna)                     # Output: AUGGCCAUU\
 
-# Reverse the process back to DNA
-print(messenger_rna.back_transcribe())
+    \# Reverse the process back to DNA
+    print(messenger_rna.back_transcribe())
 
 I.e. we can "print" the sequence information. We can also transcribe or 
 reverse transcribe sequences. Or even translate RNA to protein:
 
-protein = messenger_rna.translate()\
-print(protein)                           # Output: MAI (Methionine-Alanine)\
+    protein = messenger_rna.translate()\
+    print(protein)                           # Output: MAI (Methionine-Alanine)\
 
 
 See BioPython1.ipynb for example Python code that uses Seq.
@@ -106,7 +106,7 @@ See BioPythonPt2_1.ipynb, BioPythonPt2_2.ipynb, or BioPythonPt2_3.ipynb
 This module can handle most types of Basic Local Alignment Search Tool (BLAST)
 tasks that can be done using the web interface for BLAST.
 
-See BioPythonPt3_1.ipynb for examples using Bio.Blast.
+See [BioPythonPt3_1.ipynb](BioPythonPt3_1.ipynb) for examples using Bio.Blast.
 
 
 
