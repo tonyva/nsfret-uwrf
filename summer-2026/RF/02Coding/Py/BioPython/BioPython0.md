@@ -124,7 +124,8 @@ analyze some real sequence information that Dr. Sonja Maki and I obtained:
 - [NinebarkSample.fasta](NinebarkSample.fasta)
 - [R.setigeraSample.fasta](R.setigeraSample.fasta)
 
-These two files each contains Ninebark or Rose cDNA sequences that we obtained
+Each of these two files contains Ninebark or Rose cDNA sequences
+that we obtained
 by extracting mRNA and experimentally reverse-transcribing them to cDNA and
 then sequencing the DNA samples using Oxford Nanopore equipment.
 
