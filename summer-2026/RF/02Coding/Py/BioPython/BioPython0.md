@@ -44,8 +44,8 @@ Here is some simple Python code to create a sequence of nucleotides:
 ```python
     from Bio.Seq import Seq\
 
-    # Directly creates a sequence object without typing "Bio.Seq.Seq()"\
-coding_dna = Seq("AGTACACTG")
+    # Directly creates a sequence object without typing "Bio.Seq.Seq()"
+    coding_dna = Seq("AGTACACTG")
     print(coding_dna)
 ```
 
@@ -56,17 +56,21 @@ Even though it may look like a regular "string", the Bio.Seq class was set up
 with a lot of logic that has to do with biological sequences.
 
 We can then do things like:
-    messenger_rna = coding_dna.transcribe()\
-    print(messenger_rna)                     # Output: AUGGCCAUU\
+```python
+    messenger_rna = coding_dna.transcribe()
+    print(messenger_rna)                     # Output: AUGGCCAUU
 
-    \# Reverse the process back to DNA
+    # Reverse the process back to DNA
     print(messenger_rna.back_transcribe())
+```
 
 I.e. we can "print" the sequence information. We can also transcribe or 
 reverse transcribe sequences. Or even translate RNA to protein:
 
-    protein = messenger_rna.translate()\
+```python
+    protein = messenger_rna.translate()
     print(protein)                           # Output: MAI (Methionine-Alanine)\
+```
 
 
 See [BioPython1.ipynb](BioPython1.ipynb) for example Python code that uses Seq.
