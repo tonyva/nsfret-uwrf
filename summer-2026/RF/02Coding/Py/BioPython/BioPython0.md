@@ -41,12 +41,14 @@ This is an important Python class that we will use to set up Python objects
 that can contain DNA, RNA, or protein sequence data.
 
 Here is some simple Python code to create a sequence of nucleotides:
-
+```python
     from Bio.Seq import Seq\
 
-    \# Directly creates a sequence object without typing "Bio.Seq.Seq()"\
+    # Directly creates a sequence object without typing "Bio.Seq.Seq()"\
 coding_dna = Seq("AGTACACTG")
     print(coding_dna)
+```
+
 The above code will make the "Seq" Python class available to our Python program
 - we can create a Seq object and initialize it with a sequence of nucleotides.
 
