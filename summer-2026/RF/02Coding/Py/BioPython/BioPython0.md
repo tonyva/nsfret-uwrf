@@ -67,7 +67,7 @@ reverse transcribe sequences. Or even translate RNA to protein:
     print(protein)                           # Output: MAI (Methionine-Alanine)\
 
 
-See BioPython1.ipynb for example Python code that uses Seq.
+See [BioPython1.ipynb](BioPython1.ipynb) for example Python code that uses Seq.
 
 # Bio.SeqRecord
 
@@ -81,7 +81,7 @@ SeqIO.read or writing using SeqIO.write.
 
 We can also convert sequence data from one format to another using SeqIO.convert.
 
-See BioPython2.ipynb for example Python code that uses SeqIO. 
+See [BioPython2.ipynb](BioPython2.ipynb) for example Python code that uses SeqIO. 
 
 # Bio.SeqUtils
 
@@ -90,7 +90,7 @@ mathematical or biochemical properties or do some simple pattern matching.
 
 
 
-See BioPython3.ipynb for example code that uses Bio.SeqUtils.
+See [BioPython3.ipynb](BioPython3.ipynb) for example code that uses Bio.SeqUtils.
 
 # Bio.pairwise2, Bio.Align
 
@@ -98,7 +98,9 @@ The pairwise2 module is an older version of code to align two sequences.
 The newer/better way of aligning things is the Bio.Align module which has
 a Bio.Align.PairwiseAligner class.
 
-See BioPythonPt2_1.ipynb, BioPythonPt2_2.ipynb, or BioPythonPt2_3.ipynb
+See [BioPythonPt2_1.ipynb](BioPythonPt2_1.ipynb),
+    [BioPythonPt2_2.ipynb](BioPythonPt2_2.ipynb), or
+    [BioPythonPt2_3.ipynb](BioPythonPt2_3.ipynb)
  to see these modules in use.
 
 # Bio.Blast
