@@ -28,25 +28,25 @@ used to set up the tetraploid genome.
    to find genomic rearrangements (such as homoeologous exchanges),
    translocations, and local sequence differences by comparing the
    whole-genome assemblies of different haplotypes and related species.
-   2019 paper; code is on Zenodo
+   2019 paper; Python code is on Zenodo
   
 
 ## Quality control and evaluation of genome assembly
 
-1. ALLMAPS
+1. ALLMAPS is part of a Python toolkit developed by Haibao Tang at the Venter Institute. The jcvi suite of programs rely on BioPython to handle data formats, genomic sequences, and for scaffolds. 
 
-2. BUSCO
+2. BUSCO explicitly requires Biopython as a core dependency - uses Biopython's SeqIO and SearchIO modules to parse input FASTA files, handle genome/transcriptome sequences, and process the outputs of the HMMER and BLAST/protein alignments it runs in the background.
 
 3. LAI
 
 4. KAT
 
-5. Merqury
+5. Merqury - written in C/C++ 
 
 
 ## RNA-Seq and Transcriptome Assembly
 
-1. Trimmomatic - standard tool for trimming, quality control, and filtering of raw Illumina RNA-Seq sequencing reads.
+1. Trimmomatic - standard tool for trimming, quality control, and filtering of raw Illumina RNA-Seq sequencing reads. It uses Java.
 
 2. Trinity for de novo assembly of full-length transcriptomes from RNA-Seq data.
 
@@ -70,11 +70,11 @@ used to set up the tetraploid genome.
 
 1. PASA (Program to Assemble Spliced Alignments) to incorporate RNA-Seq transcript alignments into gene structure annotations to identify splicing variations.
 
-2. AUGUSTUS for ab initio eukaryotic gene prediction based on genomic, EST, and protein alignment profiles.
+2. AUGUSTUS for ab initio eukaryotic gene prediction based on genomic, EST, and protein alignment profiles  - written in C/C++
 
 3. SNAP hidden Markov model-based gene finder used for identifying genes in the novel rose genome.
 
-4. GlimmerHMM / TigrScan ab initio HMM gene finders trained to identify exon-intron boundaries and coding sequences.
+4. GlimmerHMM / TigrScan ab initio HMM gene finders trained to identify exon-intron boundaries and coding sequences  - written in C/C++
 
 5. EVidenceModeler (EVM) to combine the ab initio gene predictions
     (from AUGUSTUS, SNAP, etc.), transcript alignments, and protein homologies
@@ -89,7 +89,7 @@ on aligning against database sequences.
 
 1. BLAST queries against the GenBank nt/nr databases.
 
-2. InterProScan mappings against the InterPro database for protein domain and motif identification.
+2. InterProScan mappings against the InterPro database for protein domain and motif identification; uses Java.
 
 3. UniProt (Swiss-Prot/TrEMBL) for comparative protein annotation.
 
@@ -105,19 +105,19 @@ Besides some of the above tools, many other programs were used to do the Pangeno
 
 ## Phylogenomics & Evolutionary Modeling
 
-1.    OrthoFinder: Utilized for high-accuracy clustering of single-copy orthologous gene groups across the various Rosa species and outgroups.
+1.    OrthoFinder for high-accuracy clustering of single-copy orthologous gene groups across the various Rosa species and outgroups. Used to cluster genes and identify single-copy orthologous gene groups. The core algorithm uses external binaries - BLAST, Diamond, MCL - it uses BioPython to parse sequences, manipulate phylogenetic trees and handle sequence records.
 
-2.    MAFFT: Used for rapid multiple sequence alignment of the orthologous genes.
+2.    MAFFT for rapid multiple sequence alignment of the orthologous genes.
 
-3.    IQ-TREE 2: Employed for efficient maximum-likelihood phylogenetic tree inference based on the genomic data.
+3.    IQ-TREE 2 for efficient maximum-likelihood phylogenetic tree inference based on the genomic data.
 
-4.    MCMCTree (from the PAML package): Used to estimate species divergence times with time calibrations based on fossil/database records.
+4.    MCMCTree (from the PAML package) to estimate species divergence times with time calibrations based on fossil/database records.
 
-5.    CAFE5: Used to model and analyze the evolutionary contraction and expansion of gene families across the phylogenetic tree.
+5.    CAFE5 to model and analyze the evolutionary contraction and expansion of gene families across the phylogenetic tree.
 
-6.    Dsuite: Employed to calculate ABBA-BABA statistics (D-statistics) to formally test for ancient hybridization, gene flow, and introgression among different sections of the Rosa subgenus.
+6.    Dsuite to calculate ABBA-BABA statistics (D-statistics) to formally test for ancient hybridization, gene flow, and introgression among different sections of the Rosa subgenus.
 
-7.    PSMC (Pairwise Sequentially Markovian Coalescent): Used to infer the historical effective population size and demographic history of the species.
+7.    PSMC (Pairwise Sequentially Markovian Coalescent) to infer the historical effective population size and demographic history of the species.
 
 ## Long-Read Mapping & Deep Learning Variant Calling
 
