@@ -32,6 +32,8 @@ Part 8: Batch alignment - 3 sequences using one scoring matrix - 1 reference and
 - Another use of Pandas.DataFrame to pring an array of sequence comparisons
 - Task: add a 4th sequence - does the code do an additional batch alignment?
 
+- Task: Aligning "primers": set up 4 20-nt "primer" sequences that are exact matches of 4 parts of Seq1 (the reference sequence)
+- Run and check "goodness" - are there better scoring matrices that can give us better alignments?
 
 
 
