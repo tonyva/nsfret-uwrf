@@ -12,3 +12,15 @@ Use the BioPythonPt3_1.ipynb notebook in Google Colab to see how the
     above tasks can be performed. Note that the code is in a number 
     of different cells and we have to run "all" the cells to see the
     results
+
+Task 1: Download the "contaminants" sequences
+- Should give us ~18 MB of FASTA sequences.
+- 
+
+Tasks: Design primers sets for gene from Paper - 
+- for mRNA
+- genomic DNA - CDS - cross 
+- genomic DNA - a single intron only
+- genomic DNA - to detect alternative splice variants
+
+  
