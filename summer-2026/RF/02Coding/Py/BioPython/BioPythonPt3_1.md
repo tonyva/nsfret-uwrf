@@ -51,6 +51,8 @@ Task 3: Design primers sets for the RoKSN gene
 - genomic DNA - to detect alternative splice variants
 
 Also see:\
+- The [Genome portal for R. chinensis](https://lipm-browsers.toulouse.inra.fr/pub/RchiOBHm-V2/)
+- The [NCBI Genome Viewer](https://www.ncbi.nlm.nih.gov/gdv/browser/genome/?id=GCF_002994745.2)
 - Browsing the R. chinensis genome in [rosacea.org](https://www.rosaceae.org/jbrowse/index.html?data=data%2Frosa%2Frchinensis_v1.0&loc=Chr01%3A28776081..30926287&tracks=DNA%2Cv1.0_genes%2Cv1.0_transcripts%2CQTL_Sept24&highlight=)
 - A [2024 post](https://forum.rosehybridizers.org/t/questions-about-roksn-and-roksn-genotyping/12437https://forum.rosehybridizers.org/t/questions-about-roksn-and-roksn-genotyping/12437) in the Rose Hybridizers Association forum.
 - [Wikipedia article](https://en.wikipedia.org/wiki/Flowering_plant)
