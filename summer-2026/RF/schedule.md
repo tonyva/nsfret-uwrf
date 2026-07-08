@@ -120,12 +120,11 @@ Meet at UW-River Falls with Tony Varghese
     10 am: Bioinformatics\
     11 am: Bioinformatics\
     12 pm: Lunch\
-     1 pm: Bioinformatics, Research - paper
+     1 pm: Bioinformatics - see Task 3 in [BioPythonPt3-1.md](02Coding/Py/BioPythonPt3-1.md)
 
  4. Thursday July 9: \
-    11 am: Bioinformatics\
-    12 pm: Lunch\
-     1 pm: Research - paper
+     1 pm: Bioinformatics - come with questions about primers, primer design\
+     2 pm: Continue
 
 
  5. Friday July 10: \
