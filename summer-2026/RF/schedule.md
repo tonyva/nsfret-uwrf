@@ -123,15 +123,12 @@ Meet at UW-River Falls with Tony Varghese
      1 pm: Bioinformatics, Research - paper
 
  4. Thursday July 9: \
-     9 am: Research - paper\
-    10 am: Bioinformatics\
     11 am: Bioinformatics\
     12 pm: Lunch\
      1 pm: Research - paper
 
 
  5. Friday July 10: \
-     9 am: Research - paper\
     10 am: Bioinformatics\
     11 am: Bioinformatics\
     12 pm: Lunch\
