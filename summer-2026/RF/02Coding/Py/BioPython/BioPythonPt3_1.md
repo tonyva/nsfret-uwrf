@@ -36,9 +36,9 @@ Task 2: Print BLAST results in sorted order using DataFrame:
 -  for hsp in alignment.hsps:
             data.append({
                 "Accession": alignment.accession, ...
--  df = pd.DataFrame(data)
+-  ```python df = pd.DataFrame(data)
    # Sort by best E-value
-   df = df.sort_values("E-Value")
+   df = df.sort_values("E-Value")```
 - Save dataframe data as a .CSV file:
   df.to_csv("blast_summary.csv", index=False)
 
