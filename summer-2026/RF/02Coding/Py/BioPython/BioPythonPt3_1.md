@@ -43,7 +43,13 @@ Task 2: Print BLAST results in sorted order using DataFrame:
   ```pythondf.to_csv("blast_summary.csv", index=False)```
 
 
-Task 3: Design primers sets for the RoKSN gene
+Task 3: Design primers sets for a particular gene
+- Video on [PCR](https://www.youtube.com/watch?v=c07_5BfIDTw) explains how primers are used in PCR
+- [Primer-BLAST](https://www.ncbi.nlm.nih.gov/tools/primer-blast/) is a specialized BLAST site for designing primers
+- This general video [Primer Design](https://www.youtube.com/watch?v=_tXULsx1S_U) shows some considerations in designing primers
+- Video showing how to use the [Integrated Genome Browser](https://www.youtube.com/watch?v=x_lsZEgfwuI) to design primers for Arabidopsis
+
+Task 4: RoKSN gene
 - for [mRNA](https://www.ncbi.nlm.nih.gov/nuccore/KY928070.1)
 - [Genomic sequence](https://www.ncbi.nlm.nih.gov/nuccore/HE863824.1)
 - genomic DNA - CDS - cross exon/intron boundary
