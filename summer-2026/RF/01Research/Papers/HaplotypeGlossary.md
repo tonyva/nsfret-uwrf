@@ -1,3 +1,7 @@
+A [readable summary](https://www.botany.one/tracing-the-single-gene-that-gave-modern-roses-their-endless-bloom/) to the 2024 paper.
+
+# Glossary
+
 1. Interspecific hybrid:
     result of crossing 2 species within a genus
     Classification of living things: ... Family, Genus, Species
