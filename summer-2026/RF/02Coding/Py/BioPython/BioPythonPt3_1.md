@@ -31,9 +31,19 @@ Part 3: Send a Sequence to the BLAST server and get results
 
 Task 1: Download the "contaminants" sequences
 - Should give us ~18 MB of FASTA sequences.
- 
 
-Tasks: Design primers sets for gene from Paper - 
+Task 2: Print BLAST results in sorted order using DataFrame:
+-  for hsp in alignment.hsps:
+            data.append({
+                "Accession": alignment.accession, ...
+-  df = pd.DataFrame(data)
+   # Sort by best E-value
+   df = df.sort_values("E-Value")
+- Save dataframe data as a .CSV file:
+  df.to_csv("blast_summary.csv", index=False)
+
+
+Task 3: Design primers sets for gene from Paper - 
 - for mRNA
 - genomic DNA - CDS - cross 
 - genomic DNA - a single intron only
