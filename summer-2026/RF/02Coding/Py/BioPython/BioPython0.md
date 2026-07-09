@@ -94,7 +94,16 @@ See [BioPython2.ipynb](BioPython2.ipynb) for example Python code that uses SeqIO
 SeqUtils is a module with a lot of utility finctions to compute
 mathematical or biochemical properties or do some simple pattern matching.
 
+We can use the SeqUtils module to get more information about the chemical properties of our DNA sequences.
+For example, the GC fraction (or GC-content) of a sequence will determine structural and thermal stability
+of both DNA and RNA. There are variations in GC content between genomes of different species. There are also
+variations within a single genome; in humans, it can vary from 35% to 60% and the average is 41%. 
 
+The reason for the thermal stability is that guanine and cytosine form three hydrogen bonds while adenine and
+thymine/uracil only form 2. As a result, higher GC fractions makes it likely that we will require more energy
+to separate the strands. 
+If we were performing experiments involving things like PCR, the melting temperature would be a very important
+consideration. 
 
 See [BioPython3.ipynb](BioPython3.ipynb) for example code that uses Bio.SeqUtils.
 
