@@ -50,8 +50,9 @@ Task 3: Design primers sets for a particular gene
 - Video showing how to use the [Integrated Genome Browser](https://www.youtube.com/watch?v=x_lsZEgfwuI) to design primers for Arabidopsis
 
 Task 4: RoKSN gene
-- for [mRNA](https://www.ncbi.nlm.nih.gov/nuccore/KY928070.1)
+- for [mRNA](https://www.ncbi.nlm.nih.gov/nuccore/KY928070.1) or HQ174211.1
 - [Genomic sequence](https://www.ncbi.nlm.nih.gov/nuccore/HE863824.1)
+- (https://www.ncbi.nlm.nih.gov/nuccore/HQ174211.1?report=graph)
 - genomic DNA - CDS - cross exon/intron boundary
 - genomic DNA - a single intron only
 - genomic DNA - to detect alternative splice variants
