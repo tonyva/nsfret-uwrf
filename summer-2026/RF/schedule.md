@@ -141,24 +141,14 @@ Meet at UW-River Falls with Tony Varghese
 - Amy will be remote
 
  1. Monday July 13: \
-     9 am: Research - paper\
-    10 am: Bioinformatics\
-    11 am: Bioinformatics\
-    12 pm: Lunch\
-     1 pm: Bioinformatics, Research - paper
+     9 am: Research updates - identifying Ninebark and Rose sequences\
 
- 2. Tuesday July 14:\
-     1 pm: Bioinformatics\
-     2 pm: Bioinformatics, Research - paper
+ 2. Tuesday July 14: No meetings
 
- 3. Wednesday July 15:
-     9 am: Research - paper\
-    10 am: Bioinformatics\
-    11 am: Bioinformatics\
-    12 pm: Lunch\
-     1 pm: Bioinformatics, Research - paper
+ 3. Wednesday July 15:\
+     9 am: Research updates - identifying Ninebark and Rose sequences\
 
- 4. Thursday July 16: 
+ 4. Thursday July 16: \
      9 am: Research - paper\
     10 am: Bioinformatics\
     11 am: Bioinformatics\
@@ -166,12 +156,7 @@ Meet at UW-River Falls with Tony Varghese
      1 pm: Bioinformatics, Research - paper
 
 
- 5. Friday July 17: 
-     9 am: Research - paper\
-    10 am: Bioinformatics\
-    11 am: Bioinformatics\
-    12 pm: Lunch\
-     1 pm: Bioinformatics, Research - paper
+ 5. Friday July 17: No meetings
 
 
 
