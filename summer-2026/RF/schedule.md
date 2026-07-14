@@ -146,7 +146,7 @@ Meet at UW-River Falls with Tony Varghese
  2. Tuesday July 14: No meetings
 
  3. Wednesday July 15:\
-     9 am: Research updates - identifying Ninebark and Rose sequences\
+     10 am: Research updates - identifying Ninebark and Rose sequences\
 
  4. Thursday July 16: \
      9 am: Research - paper\
