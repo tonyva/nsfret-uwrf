@@ -141,37 +141,27 @@ Meet at UW-River Falls with Tony Varghese
 - Amy will be remote
 
  1. Monday July 13: \
-     9 am: Research - paper\
-    10 am: Bioinformatics\
-    11 am: Bioinformatics\
-    12 pm: Lunch\
-     1 pm: Bioinformatics, Research - paper
+     9 am: Research updates - identifying Ninebark and Rose sequences\
 
- 2. Tuesday July 14:\
-     1 pm: Bioinformatics\
-     2 pm: Bioinformatics, Research - paper
+ 2. Tuesday July 14: No meetings
 
- 3. Wednesday July 15:
-     9 am: Research - paper\
-    10 am: Bioinformatics\
-    11 am: Bioinformatics\
-    12 pm: Lunch\
-     1 pm: Bioinformatics, Research - paper
+ 3. Wednesday July 15:\
+     10 am: Research updates - identifying Ninebark and Rose sequences\
 
- 4. Thursday July 16: 
-     9 am: Research - paper\
-    10 am: Bioinformatics\
-    11 am: Bioinformatics\
-    12 pm: Lunch\
-     1 pm: Bioinformatics, Research - paper
+ 4. Thursday July 16: \
+     9 am: Research updates\
 
-
- 5. Friday July 17: 
-     9 am: Research - paper\
-    10 am: Bioinformatics\
-    11 am: Bioinformatics\
-    12 pm: Lunch\
-     1 pm: Bioinformatics, Research - paper
+ 5. Friday July 17: No meetings\
+    Send me a report - you can work on it together if you wish\
+    - Identities of the Ninebark and R. setigera sequences
+    - Answers to these questions:
+        - What did you learn about Computer Science research in bioinformatics during your time here?
+        - What did you learn about using Python (and BioPython) to solve research problems?
+        - Were you able to use AI to help your research? Which AI platforms (OpenAI, Gemini, Anthropic)? How much did you use it?
+        - What did you like about this Research Experiences for Teachers program?
+        - What were some things that we could do differently?
+        - What were the main things you would want to take to your classrooms?
+    Ideally sometime next week.
 
 
 
